@@ -1,0 +1,547 @@
+,Date,Weather,TempF,TempC,Humidity,Pressure,Location
+0,2019-01-01,Sunny,78,26,64,1018,Nellore
+1,2019-01-02,Partly cloudy,81,27,67,1018,Nellore
+2,2019-01-03,Sunny,81,27,70,1018,Nellore
+3,2019-01-04,Partly cloudy,82,28,71,1018,Nellore
+4,2019-01-05,Patchy rain possible,81,27,74,1017,Nellore
+5,2019-01-06,Partly cloudy,80,27,74,1015,Nellore
+6,2019-01-07,Partly cloudy,80,27,76,1014,Nellore
+7,2019-01-08,Sunny,82,28,70,1014,Nellore
+8,2019-01-09,Sunny,82,28,70,1014,Nellore
+9,2019-01-10,Partly cloudy,82,28,73,1014,Nellore
+10,2019-01-11,Partly cloudy,82,28,75,1015,Nellore
+11,2019-01-12,Partly cloudy,82,28,73,1015,Nellore
+12,2019-01-13,Partly cloudy,81,27,72,1015,Nellore
+13,2019-01-14,Partly cloudy,82,28,72,1015,Nellore
+14,2019-01-15,Sunny,82,28,75,1015,Nellore
+15,2019-01-16,Partly cloudy,82,28,75,1015,Nellore
+16,2019-01-17,Partly cloudy,82,28,76,1014,Nellore
+17,2019-01-18,Partly cloudy,82,28,74,1014,Nellore
+18,2019-01-19,Sunny,82,28,71,1014,Nellore
+19,2019-01-20,Sunny,82,28,71,1015,Nellore
+20,2019-01-21,Sunny,82,28,71,1015,Nellore
+21,2019-01-22,Partly cloudy,82,28,72,1015,Nellore
+22,2019-01-23,Partly cloudy,83,28,75,1014,Nellore
+23,2019-01-24,Partly cloudy,84,29,77,1015,Nellore
+24,2019-01-25,Cloudy,85,30,78,1014,Nellore
+25,2019-01-26,Patchy rain possible,85,30,79,1014,Nellore
+26,2019-01-27,Light rain shower,83,29,77,1015,Nellore
+27,2019-01-28,Light rain shower,78,25,79,1016,Nellore
+28,2019-01-29,Cloudy,80,27,76,1016,Nellore
+29,2019-01-30,Partly cloudy,81,27,71,1016,Nellore
+30,2019-01-31,Patchy rain possible,81,27,75,1016,Nellore
+31,2019-02-01,Patchy rain possible,81,27,72,1015,Nellore
+32,2019-02-02,Partly cloudy,83,28,74,1014,Nellore
+33,2019-02-03,Partly cloudy,84,29,75,1015,Nellore
+34,2019-02-04,Partly cloudy,84,29,74,1017,Nellore
+35,2019-02-05,Partly cloudy,85,29,70,1017,Nellore
+36,2019-02-06,Partly cloudy,85,29,72,1014,Nellore
+37,2019-02-07,Partly cloudy,85,30,72,1013,Nellore
+38,2019-02-08,Cloudy,86,30,77,1013,Nellore
+39,2019-02-09,Partly cloudy,87,31,77,1013,Nellore
+40,2019-02-10,Light rain shower,86,30,78,1015,Nellore
+41,2019-02-11,Patchy rain possible,85,30,77,1016,Nellore
+42,2019-02-12,Partly cloudy,85,29,76,1017,Nellore
+43,2019-02-13,Partly cloudy,85,29,75,1018,Nellore
+44,2019-02-14,Partly cloudy,85,30,74,1015,Nellore
+45,2019-02-15,Partly cloudy,88,31,72,1014,Nellore
+46,2019-02-16,Partly cloudy,90,32,71,1013,Nellore
+47,2019-02-17,Partly cloudy,90,32,76,1012,Nellore
+48,2019-02-18,Patchy rain possible,91,33,74,1011,Nellore
+49,2019-02-19,Partly cloudy,91,33,74,1012,Nellore
+50,2019-02-20,Cloudy,88,31,78,1015,Nellore
+51,2019-02-21,Patchy rain possible,87,31,73,1017,Nellore
+52,2019-02-22,Sunny,89,32,65,1014,Nellore
+53,2019-02-23,Partly cloudy,92,33,51,1012,Nellore
+54,2019-02-24,Sunny,92,34,56,1011,Nellore
+55,2019-02-25,Sunny,92,34,62,1010,Nellore
+56,2019-02-26,Partly cloudy,92,33,67,1009,Nellore
+57,2019-02-27,Partly cloudy,91,33,73,1008,Nellore
+58,2019-02-28,Partly cloudy,93,34,72,1009,Nellore
+59,2019-03-01,Patchy rain possible,91,33,74,1010,Nellore
+60,2019-03-02,Patchy rain possible,89,32,71,1011,Nellore
+61,2019-03-03,Partly cloudy,89,32,70,1011,Nellore
+62,2019-03-04,Partly cloudy,92,34,66,1009,Nellore
+63,2019-03-05,Partly cloudy,98,37,59,1008,Nellore
+64,2019-03-06,Partly cloudy,100,38,57,1008,Nellore
+65,2019-03-07,Partly cloudy,98,37,63,1008,Nellore
+66,2019-03-08,Patchy rain possible,94,34,71,1010,Nellore
+67,2019-03-09,Partly cloudy,94,34,70,1012,Nellore
+68,2019-03-10,Partly cloudy,95,35,69,1012,Nellore
+69,2019-03-11,Sunny,94,35,65,1013,Nellore
+70,2019-03-12,Partly cloudy,96,36,60,1013,Nellore
+71,2019-03-13,Partly cloudy,96,36,56,1013,Nellore
+72,2019-03-14,Partly cloudy,97,36,51,1013,Nellore
+73,2019-03-15,Partly cloudy,96,36,51,1013,Nellore
+74,2019-03-16,Sunny,93,34,59,1013,Nellore
+75,2019-03-17,Partly cloudy,91,33,63,1013,Nellore
+76,2019-03-18,Sunny,93,34,60,1012,Nellore
+77,2019-03-19,Partly cloudy,93,34,65,1011,Nellore
+78,2019-03-20,Sunny,94,35,64,1010,Nellore
+79,2019-03-21,Partly cloudy,94,35,63,1011,Nellore
+80,2019-03-22,Partly cloudy,96,35,64,1012,Nellore
+81,2019-03-23,Partly cloudy,97,36,64,1011,Nellore
+82,2019-03-24,Partly cloudy,98,37,61,1010,Nellore
+83,2019-03-25,Partly cloudy,96,36,61,1011,Nellore
+84,2019-03-26,Partly cloudy,96,36,60,1012,Nellore
+85,2019-03-27,Sunny,96,36,58,1012,Nellore
+86,2019-03-28,Partly cloudy,97,36,57,1012,Nellore
+87,2019-03-29,Partly cloudy,98,37,59,1010,Nellore
+88,2019-03-30,Sunny,101,38,49,1009,Nellore
+89,2019-03-31,Partly cloudy,102,39,46,1009,Nellore
+90,2019-04-01,Partly cloudy,102,39,49,1009,Nellore
+91,2019-04-02,Partly cloudy,100,38,56,1009,Nellore
+92,2019-04-03,Partly cloudy,97,36,65,1010,Nellore
+93,2019-04-04,Partly cloudy,98,37,63,1011,Nellore
+94,2019-04-05,Partly cloudy,100,38,59,1011,Nellore
+95,2019-04-06,Partly cloudy,101,38,55,1010,Nellore
+96,2019-04-07,Partly cloudy,100,38,58,1009,Nellore
+97,2019-04-08,Partly cloudy,99,37,62,1008,Nellore
+98,2019-04-09,Partly cloudy,99,37,63,1008,Nellore
+99,2019-04-10,Partly cloudy,100,38,63,1009,Nellore
+100,2019-04-11,Sunny,101,38,61,1009,Nellore
+101,2019-04-12,Partly cloudy,103,39,58,1008,Nellore
+102,2019-04-13,Sunny,103,39,54,1008,Nellore
+103,2019-04-14,Partly cloudy,102,39,51,1009,Nellore
+104,2019-04-15,Sunny,104,40,44,1009,Nellore
+105,2019-04-16,Sunny,101,38,52,1009,Nellore
+106,2019-04-17,Partly cloudy,101,39,56,1009,Nellore
+107,2019-04-18,Partly cloudy,99,37,66,1008,Nellore
+108,2019-04-19,Partly cloudy,99,37,61,1008,Nellore
+109,2019-04-20,Thundery outbreaks possible,99,37,64,1007,Nellore
+110,2019-04-21,Partly cloudy,100,38,60,1006,Nellore
+111,2019-04-22,Partly cloudy,100,38,59,1006,Nellore
+112,2019-04-23,Partly cloudy,100,38,58,1008,Nellore
+113,2019-04-24,Partly cloudy,100,38,58,1009,Nellore
+114,2019-04-25,Partly cloudy,101,38,56,1008,Nellore
+115,2019-04-26,Partly cloudy,103,39,56,1006,Nellore
+116,2019-04-27,Partly cloudy,103,39,59,1007,Nellore
+117,2019-04-28,Partly cloudy,101,38,61,1007,Nellore
+118,2019-04-29,Partly cloudy,102,39,60,1006,Nellore
+119,2019-04-30,Partly cloudy,100,38,61,1005,Nellore
+120,2019-05-01,Thundery outbreaks possible,95,35,61,1004,Nellore
+121,2019-05-02,Overcast,103,39,44,1002,Nellore
+122,2019-05-03,Cloudy,107,42,35,1003,Nellore
+123,2019-05-04,Partly cloudy,105,41,40,1006,Nellore
+124,2019-05-05,Partly cloudy,105,41,38,1007,Nellore
+125,2019-05-06,Partly cloudy,109,43,42,1006,Nellore
+126,2019-05-07,Partly cloudy,108,42,39,1005,Nellore
+127,2019-05-08,Partly cloudy,107,42,37,1005,Nellore
+128,2019-05-09,Partly cloudy,110,43,34,1004,Nellore
+129,2019-05-10,Partly cloudy,109,43,39,1004,Nellore
+130,2019-05-11,Partly cloudy,106,41,52,1006,Nellore
+131,2019-05-12,Partly cloudy,104,40,54,1006,Nellore
+132,2019-05-13,Partly cloudy,102,39,60,1006,Nellore
+133,2019-05-14,Partly cloudy,104,40,56,1005,Nellore
+134,2019-05-15,Partly cloudy,104,40,57,1006,Nellore
+135,2019-05-16,Partly cloudy,101,38,63,1007,Nellore
+136,2019-05-17,Partly cloudy,105,40,57,1007,Nellore
+137,2019-05-18,Partly cloudy,104,40,57,1006,Nellore
+138,2019-05-19,Partly cloudy,106,41,48,1006,Nellore
+139,2019-05-20,Partly cloudy,106,41,45,1007,Nellore
+140,2019-05-21,Partly cloudy,106,41,45,1006,Nellore
+141,2019-05-22,Partly cloudy,104,40,51,1006,Nellore
+142,2019-05-23,Partly cloudy,104,40,54,1006,Nellore
+143,2019-05-24,Partly cloudy,104,40,56,1006,Nellore
+144,2019-05-25,Partly cloudy,106,41,55,1005,Nellore
+145,2019-05-26,Partly cloudy,110,43,47,1003,Nellore
+146,2019-05-27,Partly cloudy,108,42,46,1003,Nellore
+147,2019-05-28,Thundery outbreaks possible,108,42,48,1003,Nellore
+148,2019-05-29,Partly cloudy,107,41,48,1002,Nellore
+149,2019-05-30,Partly cloudy,107,41,50,1002,Nellore
+150,2019-05-31,Partly cloudy,106,41,51,1003,Nellore
+151,2019-06-01,Thundery outbreaks possible,106,41,46,1004,Nellore
+152,2019-06-02,Thundery outbreaks possible,107,42,49,1003,Nellore
+153,2019-06-03,Moderate or heavy rain shower,105,40,46,1003,Nellore
+154,2019-06-04,Partly cloudy,104,40,45,1003,Nellore
+155,2019-06-05,Partly cloudy,105,41,51,1002,Nellore
+156,2019-06-06,Partly cloudy,106,41,50,1003,Nellore
+157,2019-06-07,Partly cloudy,107,42,47,1002,Nellore
+158,2019-06-08,Partly cloudy,105,40,50,1003,Nellore
+159,2019-06-09,Patchy light rain with thunder,106,41,45,1002,Nellore
+160,2019-06-10,Thundery outbreaks possible,107,42,39,1002,Nellore
+161,2019-06-11,Patchy rain possible,105,40,40,1003,Nellore
+162,2019-06-12,Partly cloudy,109,43,36,1003,Nellore
+163,2019-06-13,Partly cloudy,103,40,40,1004,Nellore
+164,2019-06-14,Light rain shower,103,40,42,1004,Nellore
+165,2019-06-15,Partly cloudy,106,41,42,1004,Nellore
+166,2019-06-16,Partly cloudy,107,42,39,1004,Nellore
+167,2019-06-17,Patchy rain possible,103,40,45,1005,Nellore
+168,2019-06-18,Patchy rain possible,103,39,47,1005,Nellore
+169,2019-06-19,Partly cloudy,105,41,46,1003,Nellore
+170,2019-06-20,Partly cloudy,102,39,44,1003,Nellore
+171,2019-06-21,Patchy rain possible,97,36,54,1003,Nellore
+172,2019-06-22,Light rain shower,90,32,66,1004,Nellore
+173,2019-06-23,Patchy light rain with thunder,93,34,62,1003,Nellore
+174,2019-06-24,Patchy rain possible,94,34,63,1004,Nellore
+175,2019-06-25,Patchy rain possible,96,36,58,1005,Nellore
+176,2019-06-26,Light rain shower,92,33,63,1005,Nellore
+177,2019-06-27,Patchy rain possible,94,35,64,1004,Nellore
+178,2019-06-28,Light rain shower,98,37,50,1003,Nellore
+179,2019-06-29,Patchy rain possible,98,36,50,1003,Nellore
+180,2019-06-30,Heavy rain at times,94,34,59,1004,Nellore
+181,2019-07-01,Light rain shower,98,36,54,1003,Nellore
+182,2019-07-02,Partly cloudy,99,37,54,1003,Nellore
+183,2019-07-03,Partly cloudy,100,38,46,1003,Nellore
+184,2019-07-04,Overcast,101,38,44,1003,Nellore
+185,2019-07-05,Light rain shower,97,36,46,1003,Nellore
+186,2019-07-06,Patchy rain possible,99,37,47,1003,Nellore
+187,2019-07-07,Cloudy,98,37,45,1004,Nellore
+188,2019-07-08,Light rain shower,97,36,46,1005,Nellore
+189,2019-07-09,Partly cloudy,101,38,45,1005,Nellore
+190,2019-07-10,Patchy rain possible,96,36,43,1005,Nellore
+191,2019-07-11,Patchy rain possible,97,36,50,1006,Nellore
+192,2019-07-12,Partly cloudy,98,37,51,1007,Nellore
+193,2019-07-13,Partly cloudy,98,37,54,1007,Nellore
+194,2019-07-14,Light rain shower,98,37,61,1007,Nellore
+195,2019-07-15,Moderate or heavy rain shower,99,37,62,1005,Nellore
+196,2019-07-16,Patchy rain possible,100,38,60,1005,Nellore
+197,2019-07-17,Patchy rain possible,99,37,55,1004,Nellore
+198,2019-07-18,Moderate or heavy rain shower,98,36,62,1002,Nellore
+199,2019-07-19,Light rain shower,90,32,71,1001,Nellore
+200,2019-07-20,Moderate or heavy rain shower,95,35,62,1002,Nellore
+201,2019-07-21,Cloudy,95,35,59,1002,Nellore
+202,2019-07-22,Moderate or heavy rain shower,93,34,65,1002,Nellore
+203,2019-07-23,Light rain shower,82,28,75,1003,Nellore
+204,2019-07-24,Light rain shower,95,35,61,1004,Nellore
+205,2019-07-25,Patchy rain possible,89,32,65,1006,Nellore
+206,2019-07-26,Light rain shower,87,30,66,1005,Nellore
+207,2019-07-27,Partly cloudy,91,33,64,1005,Nellore
+208,2019-07-28,Patchy rain possible,87,31,58,1005,Nellore
+209,2019-07-29,Moderate or heavy rain shower,91,33,59,1005,Nellore
+210,2019-07-30,Cloudy,94,34,55,1006,Nellore
+211,2019-07-31,Partly cloudy,97,36,53,1007,Nellore
+212,2019-08-01,Partly cloudy,95,35,52,1006,Nellore
+213,2019-08-02,Cloudy,90,32,62,1006,Nellore
+214,2019-08-03,Light rain shower,93,34,55,1006,Nellore
+215,2019-08-04,Patchy rain possible,94,34,52,1006,Nellore
+216,2019-08-05,Light rain shower,91,33,54,1004,Nellore
+217,2019-08-06,Moderate rain,85,30,69,1003,Nellore
+218,2019-08-07,Cloudy,92,34,60,1002,Nellore
+219,2019-08-08,Overcast,92,34,57,1001,Nellore
+220,2019-08-09,Overcast,93,34,56,1004,Nellore
+221,2019-08-10,Overcast,93,34,56,1005,Nellore
+222,2019-08-11,Partly cloudy,96,36,52,1005,Nellore
+223,2019-08-12,Partly cloudy,97,36,51,1004,Nellore
+224,2019-08-13,Cloudy,96,36,54,1004,Nellore
+225,2019-08-14,Light rain shower,97,36,58,1005,Nellore
+226,2019-08-15,Patchy rain possible,98,36,56,1006,Nellore
+227,2019-08-16,Cloudy,97,36,54,1005,Nellore
+228,2019-08-17,Cloudy,95,35,59,1005,Nellore
+229,2019-08-18,Moderate or heavy rain shower,95,35,66,1006,Nellore
+230,2019-08-19,Cloudy,95,35,62,1006,Nellore
+231,2019-08-20,Moderate or heavy rain shower,96,35,61,1006,Nellore
+232,2019-08-21,Light rain shower,92,33,62,1005,Nellore
+233,2019-08-22,Light drizzle,87,31,69,1005,Nellore
+234,2019-08-23,Patchy rain possible,91,33,65,1005,Nellore
+235,2019-08-24,Light rain shower,95,35,58,1005,Nellore
+236,2019-08-25,Patchy rain possible,95,35,53,1005,Nellore
+237,2019-08-26,Partly cloudy,97,36,50,1005,Nellore
+238,2019-08-27,Patchy rain possible,94,34,56,1005,Nellore
+239,2019-08-28,Partly cloudy,96,36,57,1006,Nellore
+240,2019-08-29,Partly cloudy,97,36,52,1005,Nellore
+241,2019-08-30,Light rain shower,95,35,51,1003,Nellore
+242,2019-08-31,Moderate or heavy rain shower,91,33,62,1002,Nellore
+243,2019-09-01,Moderate rain at times,79,26,82,1005,Nellore
+244,2019-09-02,Patchy rain possible,86,30,73,1006,Nellore
+245,2019-09-03,Light rain shower,84,29,70,1005,Nellore
+246,2019-09-04,Patchy rain possible,91,33,62,1005,Nellore
+247,2019-09-05,Patchy rain possible,92,33,60,1005,Nellore
+248,2019-09-06,Cloudy,94,35,55,1003,Nellore
+249,2019-09-07,Overcast,92,33,56,1004,Nellore
+250,2019-09-08,Light rain shower,94,34,53,1006,Nellore
+251,2019-09-09,Partly cloudy,96,36,50,1006,Nellore
+252,2019-09-10,Partly cloudy,97,36,54,1006,Nellore
+253,2019-09-11,Patchy rain possible,94,34,61,1007,Nellore
+254,2019-09-12,Cloudy,92,33,60,1008,Nellore
+255,2019-09-13,Partly cloudy,96,35,56,1008,Nellore
+256,2019-09-14,Partly cloudy,95,35,61,1008,Nellore
+257,2019-09-15,Partly cloudy,97,36,57,1007,Nellore
+258,2019-09-16,Partly cloudy,96,36,60,1006,Nellore
+259,2019-09-17,Moderate or heavy rain shower,92,33,66,1005,Nellore
+260,2019-09-18,Light rain shower,83,28,84,1006,Nellore
+261,2019-09-19,Moderate or heavy rain shower,91,33,75,1005,Nellore
+262,2019-09-20,Partly cloudy,92,33,66,1006,Nellore
+263,2019-09-21,Partly cloudy,93,34,63,1007,Nellore
+264,2019-09-22,Patchy rain possible,92,33,68,1007,Nellore
+265,2019-09-23,Patchy rain possible,90,32,73,1007,Nellore
+266,2019-09-24,Light rain shower,92,33,71,1006,Nellore
+267,2019-09-25,Moderate or heavy rain shower,91,33,71,1007,Nellore
+268,2019-09-26,Patchy rain possible,90,32,72,1011,Nellore
+269,2019-09-27,Patchy rain possible,90,32,74,1012,Nellore
+270,2019-09-28,Patchy rain possible,91,33,69,1012,Nellore
+271,2019-09-29,Partly cloudy,91,33,66,1012,Nellore
+272,2019-09-30,Partly cloudy,92,33,68,1011,Nellore
+273,2019-10-01,Partly cloudy,94,34,66,1011,Nellore
+274,2019-10-02,Light rain shower,93,34,66,1010,Nellore
+275,2019-10-03,Light rain shower,93,34,64,1009,Nellore
+276,2019-10-04,Patchy light rain with thunder,92,34,67,1009,Nellore
+277,2019-10-05,Light rain shower,93,34,65,1008,Nellore
+278,2019-10-06,Patchy rain possible,93,34,68,1009,Nellore
+279,2019-10-07,Patchy rain possible,92,33,71,1009,Nellore
+280,2019-10-08,Light rain shower,92,34,70,1009,Nellore
+281,2019-10-09,Thundery outbreaks possible,92,33,71,1009,Nellore
+282,2019-10-10,Moderate or heavy rain shower,91,33,73,1009,Nellore
+283,2019-10-11,Patchy rain possible,92,33,70,1008,Nellore
+284,2019-10-12,Patchy rain possible,92,33,69,1009,Nellore
+285,2019-10-13,Patchy rain possible,91,33,70,1010,Nellore
+286,2019-10-14,Partly cloudy,92,33,68,1010,Nellore
+287,2019-10-15,Moderate or heavy rain shower,85,30,77,1010,Nellore
+288,2019-10-16,Moderate or heavy rain shower,82,28,85,1010,Nellore
+289,2019-10-17,Light rain shower,88,31,76,1010,Nellore
+290,2019-10-18,Patchy rain possible,89,32,73,1010,Nellore
+291,2019-10-19,Torrential rain shower,87,31,76,1010,Nellore
+292,2019-10-20,Light rain shower,89,32,74,1011,Nellore
+293,2019-10-21,Light rain,85,29,79,1010,Nellore
+294,2019-10-22,Torrential rain shower,82,28,85,1006,Nellore
+295,2019-10-23,Moderate or heavy rain shower,88,31,76,1006,Nellore
+296,2019-10-24,Patchy rain possible,89,32,72,1007,Nellore
+297,2019-10-25,Patchy rain possible,79,26,85,1009,Nellore
+298,2019-10-26,Patchy rain possible,90,32,71,1009,Nellore
+299,2019-10-27,Light rain shower,89,31,75,1010,Nellore
+300,2019-10-28,Patchy rain possible,87,31,77,1011,Nellore
+301,2019-10-29,Moderate or heavy rain shower,87,30,79,1011,Nellore
+302,2019-10-30,Moderate or heavy rain shower,85,30,80,1011,Nellore
+303,2019-10-31,Light rain shower,82,28,84,1011,Nellore
+304,2019-11-01,Partly cloudy,87,31,76,1010,Nellore
+305,2019-11-02,Partly cloudy,87,31,75,1011,Nellore
+306,2019-11-03,Patchy rain possible,86,30,74,1012,Nellore
+307,2019-11-04,Partly cloudy,87,31,71,1013,Nellore
+308,2019-11-05,Partly cloudy,88,31,72,1011,Nellore
+309,2019-11-06,Patchy rain possible,88,31,74,1009,Nellore
+310,2019-11-07,Patchy rain possible,87,31,72,1009,Nellore
+311,2019-11-08,Patchy rain possible,87,31,71,1009,Nellore
+312,2019-11-09,Partly cloudy,89,32,69,1009,Nellore
+313,2019-11-10,Partly cloudy,87,31,67,1010,Nellore
+314,2019-11-11,Partly cloudy,87,31,72,1010,Nellore
+315,2019-11-12,Patchy rain possible,87,31,73,1011,Nellore
+316,2019-11-13,Moderate rain at times,85,30,72,1012,Nellore
+317,2019-11-14,Torrential rain shower,85,29,80,1012,Nellore
+318,2019-11-15,Torrential rain shower,83,28,82,1012,Nellore
+319,2019-11-16,Patchy rain possible,85,30,78,1012,Nellore
+320,2019-11-17,Patchy rain possible,86,30,76,1012,Nellore
+321,2019-11-18,Light rain shower,85,30,81,1012,Nellore
+322,2019-11-19,Torrential rain shower,82,28,84,1011,Nellore
+323,2019-11-20,Light rain shower,83,28,83,1012,Nellore
+324,2019-11-21,Patchy rain possible,83,28,77,1012,Nellore
+325,2019-11-22,Patchy rain possible,83,28,76,1014,Nellore
+326,2019-11-23,Patchy rain possible,83,28,78,1014,Nellore
+327,2019-11-24,Partly cloudy,83,28,74,1013,Nellore
+328,2019-11-25,Partly cloudy,83,28,74,1013,Nellore
+329,2019-11-26,Light rain shower,83,28,74,1012,Nellore
+330,2019-11-27,Light rain shower,83,29,76,1012,Nellore
+331,2019-11-28,Torrential rain shower,82,28,84,1012,Nellore
+332,2019-11-29,Torrential rain shower,83,28,84,1012,Nellore
+333,2019-11-30,Moderate or heavy rain shower,83,29,82,1012,Nellore
+334,2019-12-01,Torrential rain shower,82,28,85,1012,Nellore
+335,2019-12-02,Light rain shower,80,27,83,1013,Nellore
+336,2019-12-03,Light rain shower,81,27,76,1013,Nellore
+337,2019-12-04,Patchy rain possible,82,28,74,1014,Nellore
+338,2019-12-05,Light rain shower,81,27,74,1015,Nellore
+339,2019-12-06,Partly cloudy,80,27,74,1015,Nellore
+340,2019-12-07,Light rain shower,80,27,84,1014,Nellore
+341,2019-12-08,Patchy rain possible,83,28,77,1014,Nellore
+342,2019-12-09,Patchy rain possible,82,28,77,1015,Nellore
+343,2019-12-10,Patchy rain possible,83,28,74,1013,Nellore
+344,2019-12-11,Partly cloudy,82,28,75,1012,Nellore
+345,2019-12-12,Patchy rain possible,82,28,74,1012,Nellore
+346,2019-12-13,Light rain shower,82,28,75,1013,Nellore
+347,2019-12-14,Light rain shower,83,28,77,1014,Nellore
+348,2019-12-15,Patchy rain possible,82,28,77,1014,Nellore
+349,2019-12-16,Patchy rain possible,82,28,76,1014,Nellore
+350,2019-12-17,Patchy rain possible,81,27,76,1014,Nellore
+351,2019-12-18,Partly cloudy,82,28,78,1015,Nellore
+352,2019-12-19,Cloudy,82,28,76,1014,Nellore
+353,2019-12-20,Light rain shower,82,28,79,1013,Nellore
+354,2019-12-21,Patchy rain possible,82,28,74,1014,Nellore
+355,2019-12-22,Patchy rain possible,81,27,72,1014,Nellore
+356,2019-12-23,Partly cloudy,82,28,71,1014,Nellore
+357,2019-12-24,Patchy rain possible,79,26,76,1014,Nellore
+358,2019-12-25,Cloudy,82,28,76,1014,Nellore
+359,2019-12-26,Partly cloudy,82,28,73,1013,Nellore
+360,2019-12-27,Partly cloudy,82,28,72,1013,Nellore
+361,2019-12-28,Patchy rain possible,81,27,73,1013,Nellore
+362,2019-12-29,Light rain shower,82,28,77,1013,Nellore
+363,2019-12-30,Patchy rain possible,80,27,80,1013,Nellore
+364,2019-12-31,Light rain shower,81,27,78,1014,Nellore
+365,2020-01-01,Light rain shower,84,29,79,1015,Nellore
+366,2020-01-02,Light rain shower,85,30,78,1015,Nellore
+367,2020-01-03,Patchy rain possible,85,29,81,1013,Nellore
+368,2020-01-04,Patchy rain possible,87,31,80,1012,Nellore
+369,2020-01-05,Light rain shower,84,29,80,1012,Nellore
+370,2020-01-06,Moderate or heavy rain shower,81,27,84,1015,Nellore
+371,2020-01-07,Light rain shower,81,27,80,1015,Nellore
+372,2020-01-08,Light rain shower,82,28,75,1014,Nellore
+373,2020-01-09,Partly cloudy,82,28,70,1013,Nellore
+374,2020-01-10,Partly cloudy,81,27,74,1014,Nellore
+375,2020-01-11,Patchy rain possible,81,27,78,1015,Nellore
+376,2020-01-12,Light rain shower,82,28,82,1013,Nellore
+377,2020-01-13,Partly cloudy,82,28,77,1012,Nellore
+378,2020-01-14,Sunny,81,27,70,1013,Nellore
+379,2020-01-15,Partly cloudy,81,27,69,1013,Nellore
+380,2020-01-16,Overcast,81,27,68,1013,Nellore
+381,2020-01-17,Patchy rain possible,82,28,78,1014,Nellore
+382,2020-01-18,Moderate or heavy rain shower,83,28,81,1013,Nellore
+383,2020-01-19,Cloudy,83,29,76,1014,Nellore
+384,2020-01-20,Sunny,84,29,70,1014,Nellore
+385,2020-01-21,Partly cloudy,83,29,73,1016,Nellore
+386,2020-01-22,Partly cloudy,83,28,76,1016,Nellore
+387,2020-01-23,Sunny,83,28,75,1015,Nellore
+388,2020-01-24,Sunny,84,29,69,1014,Nellore
+389,2020-01-25,Sunny,83,28,64,1014,Nellore
+390,2020-01-26,Partly cloudy,86,30,65,1013,Nellore
+391,2020-01-27,Sunny,87,30,69,1012,Nellore
+392,2020-01-28,Partly cloudy,89,32,72,1013,Nellore
+393,2020-01-29,Sunny,88,31,73,1013,Nellore
+394,2020-01-30,Partly cloudy,88,31,71,1012,Nellore
+395,2020-01-31,Partly cloudy,86,30,75,1012,Nellore
+396,2020-02-01,Partly cloudy,87,30,74,1013,Nellore
+397,2020-02-02,Partly cloudy,85,29,72,1015,Nellore
+398,2020-02-03,Sunny,84,29,69,1015,Nellore
+399,2020-02-04,Sunny,85,30,70,1014,Nellore
+400,2020-02-05,Sunny,85,30,70,1013,Nellore
+401,2020-02-06,Sunny,87,30,68,1013,Nellore
+402,2020-02-07,Partly cloudy,86,30,71,1013,Nellore
+403,2020-02-08,Partly cloudy,85,30,71,1014,Nellore
+404,2020-02-09,Moderate or heavy rain shower,85,29,73,1015,Nellore
+405,2020-02-10,Patchy rain possible,85,29,69,1015,Nellore
+406,2020-02-11,Patchy rain possible,85,29,73,1015,Nellore
+407,2020-02-12,Partly cloudy,84,29,71,1016,Nellore
+408,2020-02-13,Partly cloudy,85,29,71,1015,Nellore
+409,2020-02-14,Sunny,89,32,64,1013,Nellore
+410,2020-02-15,Sunny,89,31,60,1012,Nellore
+411,2020-02-16,Sunny,87,31,60,1014,Nellore
+412,2020-02-17,Sunny,86,30,62,1015,Nellore
+413,2020-02-18,Sunny,86,30,65,1014,Nellore
+414,2020-02-19,Sunny,85,29,68,1014,Nellore
+415,2020-02-20,Sunny,85,29,66,1014,Nellore
+416,2020-02-21,Sunny,85,30,70,1016,Nellore
+417,2020-02-22,Light rain shower,85,30,75,1016,Nellore
+418,2020-02-23,Partly cloudy,86,30,73,1015,Nellore
+419,2020-02-24,Sunny,87,31,73,1013,Nellore
+420,2020-02-25,Partly cloudy,88,31,76,1011,Nellore
+421,2020-02-26,Patchy rain possible,89,31,75,1012,Nellore
+422,2020-02-27,Partly cloudy,88,31,75,1012,Nellore
+423,2020-02-28,Patchy rain possible,88,31,72,1011,Nellore
+424,2020-03-01,Sunny,89,31,68,1011,Nellore
+425,2020-03-02,Partly cloudy,87,31,69,1012,Nellore
+426,2020-03-03,Partly cloudy,90,32,65,1011,Nellore
+427,2020-03-04,Partly cloudy,94,35,63,1010,Nellore
+428,2020-03-05,Partly cloudy,92,33,67,1009,Nellore
+429,2020-03-06,Moderate or heavy rain shower,87,31,77,1010,Nellore
+430,2020-03-07,Patchy rain possible,89,32,75,1012,Nellore
+431,2020-03-08,Cloudy,88,31,75,1012,Nellore
+432,2020-03-09,Partly cloudy,89,32,70,1010,Nellore
+433,2020-03-10,Partly cloudy,91,33,69,1010,Nellore
+434,2020-03-11,Partly cloudy,92,33,65,1011,Nellore
+435,2020-03-12,Partly cloudy,93,34,67,1012,Nellore
+436,2020-03-13,Sunny,93,34,70,1012,Nellore
+437,2020-03-14,Sunny,91,33,72,1012,Nellore
+438,2020-03-15,Sunny,90,32,71,1012,Nellore
+439,2020-03-16,Partly cloudy,91,33,70,1012,Nellore
+440,2020-03-17,Sunny,92,33,70,1013,Nellore
+441,2020-03-18,Sunny,94,35,69,1012,Nellore
+442,2020-03-19,Partly cloudy,98,37,61,1011,Nellore
+443,2020-03-20,Partly cloudy,96,36,62,1011,Nellore
+444,2020-03-21,Partly cloudy,97,36,60,1010,Nellore
+445,2020-03-22,Thundery outbreaks possible,94,34,66,1011,Nellore
+446,2020-03-23,Partly cloudy,94,34,66,1011,Nellore
+447,2020-03-24,Partly cloudy,93,34,67,1010,Nellore
+448,2020-03-25,Partly cloudy,93,34,68,1009,Nellore
+449,2020-03-26,Partly cloudy,94,34,67,1010,Nellore
+450,2020-03-27,Sunny,94,35,62,1012,Nellore
+451,2020-03-28,Partly cloudy,96,36,55,1010,Nellore
+452,2020-03-29,Partly cloudy,98,37,50,1009,Nellore
+453,2020-03-30,Sunny,96,36,56,1010,Nellore
+454,2020-03-31,Partly cloudy,97,36,58,1010,Nellore
+455,2020-04-01,Partly cloudy,99,37,57,1009,Nellore
+456,2020-04-02,Partly cloudy,100,38,60,1009,Nellore
+457,2020-04-03,Partly cloudy,99,37,65,1010,Nellore
+458,2020-04-04,Sunny,95,35,71,1011,Nellore
+459,2020-04-05,Partly cloudy,97,36,71,1011,Nellore
+460,2020-04-06,Partly cloudy,98,37,74,1011,Nellore
+461,2020-04-07,Partly cloudy,98,37,69,1009,Nellore
+462,2020-04-08,Partly cloudy,100,38,62,1010,Nellore
+463,2020-04-09,Partly cloudy,99,37,62,1010,Nellore
+464,2020-04-10,Partly cloudy,98,37,65,1011,Nellore
+465,2020-04-11,Partly cloudy,96,36,65,1012,Nellore
+466,2020-04-12,Partly cloudy,98,37,60,1011,Nellore
+467,2020-04-13,Partly cloudy,101,38,55,1009,Nellore
+468,2020-04-14,Partly cloudy,100,38,57,1010,Nellore
+469,2020-04-15,Partly cloudy,97,36,63,1011,Nellore
+470,2020-04-16,Partly cloudy,100,38,63,1009,Nellore
+471,2020-04-17,Partly cloudy,102,39,64,1008,Nellore
+472,2020-04-18,Partly cloudy,101,38,66,1009,Nellore
+473,2020-04-19,Partly cloudy,101,39,66,1009,Nellore
+474,2020-04-20,Partly cloudy,99,37,66,1009,Nellore
+475,2020-04-21,Sunny,100,38,66,1009,Nellore
+476,2020-04-22,Partly cloudy,100,38,64,1008,Nellore
+477,2020-04-23,Partly cloudy,100,38,68,1008,Nellore
+478,2020-04-24,Partly cloudy,101,39,60,1007,Nellore
+479,2020-04-25,Partly cloudy,102,39,62,1007,Nellore
+480,2020-04-26,Thundery outbreaks possible,99,37,64,1008,Nellore
+481,2020-04-27,Patchy rain possible,96,36,67,1009,Nellore
+482,2020-04-28,Partly cloudy,98,37,68,1009,Nellore
+483,2020-04-29,Partly cloudy,98,37,63,1009,Nellore
+484,2020-04-30,Partly cloudy,100,38,63,1009,Nellore
+485,2020-05-01,Partly cloudy,102,39,64,1008,Nellore
+486,2020-05-02,Partly cloudy,103,39,62,1006,Nellore
+487,2020-05-03,Partly cloudy,103,40,59,1006,Nellore
+488,2020-05-04,Partly cloudy,103,39,60,1008,Nellore
+489,2020-05-05,Partly cloudy,102,39,62,1007,Nellore
+490,2020-05-06,Partly cloudy,104,40,61,1007,Nellore
+491,2020-05-07,Partly cloudy,102,39,63,1007,Nellore
+492,2020-05-08,Partly cloudy,102,39,63,1007,Nellore
+493,2020-05-09,Partly cloudy,105,41,61,1007,Nellore
+494,2020-05-10,Partly cloudy,101,39,63,1008,Nellore
+495,2020-05-11,Partly cloudy,100,38,65,1008,Nellore
+496,2020-05-12,Sunny,97,36,68,1007,Nellore
+497,2020-05-13,Partly cloudy,101,38,67,1007,Nellore
+498,2020-05-14,Partly cloudy,97,36,69,1006,Nellore
+499,2020-05-15,Partly cloudy,101,38,65,1005,Nellore
+500,2020-05-16,Partly cloudy,104,40,59,1003,Nellore
+501,2020-05-17,Partly cloudy,110,43,54,1002,Nellore
+502,2020-05-18,Partly cloudy,105,41,50,999,Nellore
+503,2020-05-19,Partly cloudy,108,42,38,998,Nellore
+504,2020-05-20,Partly cloudy,112,44,33,999,Nellore
+505,2020-05-21,Partly cloudy,112,44,36,1001,Nellore
+506,2020-05-22,Partly cloudy,112,45,40,1003,Nellore
+507,2020-05-23,Partly cloudy,110,43,51,1004,Nellore
+508,2020-05-24,Partly cloudy,107,42,65,1005,Nellore
+509,2020-05-25,Partly cloudy,103,40,68,1006,Nellore
+510,2020-05-26,Partly cloudy,104,40,67,1006,Nellore
+511,2020-05-27,Partly cloudy,104,40,67,1005,Nellore
+512,2020-05-28,Partly cloudy,107,42,61,1004,Nellore
+513,2020-05-29,Partly cloudy,107,42,51,1004,Nellore
+514,2020-05-30,Partly cloudy,106,41,55,1005,Nellore
+515,2020-05-31,Partly cloudy,102,39,63,1007,Nellore
+516,2020-06-01,Partly cloudy,97,36,65,1007,Nellore
+517,2020-06-02,Partly cloudy,98,37,58,1007,Nellore
+518,2020-06-03,Partly cloudy,99,37,53,1006,Nellore
+519,2020-06-04,Patchy rain possible,100,38,55,1006,Nellore
+520,2020-06-05,Partly cloudy,101,38,50,1006,Nellore
+521,2020-06-06,Partly cloudy,103,39,49,1004,Nellore
+522,2020-06-07,Partly cloudy,104,40,44,1004,Nellore
+523,2020-06-08,Partly cloudy,102,39,41,1004,Nellore
+524,2020-06-09,Partly cloudy,101,39,48,1003,Nellore
+525,2020-06-10,Light rain shower,82,28,75,1004,Nellore
+526,2020-06-11,Patchy light drizzle,84,29,73,1002,Nellore
+527,2020-06-12,Cloudy,86,30,68,1002,Nellore
+528,2020-06-13,Partly cloudy,99,37,52,1002,Nellore
+529,2020-06-14,Partly cloudy,100,38,49,1003,Nellore
+530,2020-06-15,Partly cloudy,100,38,47,1003,Nellore
+531,2020-06-16,Cloudy,103,39,49,1002,Nellore
+532,2020-06-17,Partly cloudy,96,36,49,1003,Nellore
+533,2020-06-18,Light rain shower,94,34,53,1005,Nellore
+534,2020-06-19,Partly cloudy,101,38,48,1005,Nellore
+535,2020-06-20,Partly cloudy,99,37,50,1004,Nellore
+536,2020-06-21,Partly cloudy,96,36,58,1003,Nellore
+537,2020-06-22,Partly cloudy,97,36,55,1003,Nellore
+538,2020-06-23,Partly cloudy,98,37,53,1004,Nellore
+539,2020-06-24,Light rain shower,98,37,54,1004,Nellore
+540,2020-06-25,Cloudy,96,36,59,1004,Nellore
+541,2020-06-26,Partly cloudy,95,35,61,1003,Nellore
+542,2020-06-27,Overcast,97,36,60,1003,Nellore
+543,2020-06-28,Light rain shower,97,36,61,1003,Nellore
+544,2020-06-29,Partly cloudy,99,37,59,1002,Nellore
+545,2020-06-30,Overcast,94,35,61,1002,Nellore

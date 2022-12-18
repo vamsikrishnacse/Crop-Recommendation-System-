@@ -1,0 +1,547 @@
+,Date,Weather,TempF,TempC,Humidity,Pressure,Location
+0,2019-01-01,Partly cloudy,83,28,68,1017,Tiruchirappalli
+1,2019-01-02,Partly cloudy,81,27,68,1017,Tiruchirappalli
+2,2019-01-03,Partly cloudy,84,29,71,1018,Tiruchirappalli
+3,2019-01-04,Partly cloudy,83,28,70,1017,Tiruchirappalli
+4,2019-01-05,Partly cloudy,84,29,71,1016,Tiruchirappalli
+5,2019-01-06,Partly cloudy,82,28,74,1015,Tiruchirappalli
+6,2019-01-07,Partly cloudy,85,30,72,1014,Tiruchirappalli
+7,2019-01-08,Sunny,86,30,67,1014,Tiruchirappalli
+8,2019-01-09,Sunny,85,30,62,1014,Tiruchirappalli
+9,2019-01-10,Partly cloudy,85,30,69,1014,Tiruchirappalli
+10,2019-01-11,Partly cloudy,85,30,74,1015,Tiruchirappalli
+11,2019-01-12,Partly cloudy,85,30,72,1015,Tiruchirappalli
+12,2019-01-13,Partly cloudy,85,30,74,1014,Tiruchirappalli
+13,2019-01-14,Partly cloudy,86,30,70,1014,Tiruchirappalli
+14,2019-01-15,Sunny,86,30,67,1014,Tiruchirappalli
+15,2019-01-16,Partly cloudy,86,30,66,1015,Tiruchirappalli
+16,2019-01-17,Partly cloudy,84,29,72,1014,Tiruchirappalli
+17,2019-01-18,Partly cloudy,85,30,69,1014,Tiruchirappalli
+18,2019-01-19,Partly cloudy,86,30,68,1014,Tiruchirappalli
+19,2019-01-20,Sunny,86,30,65,1015,Tiruchirappalli
+20,2019-01-21,Partly cloudy,85,30,66,1015,Tiruchirappalli
+21,2019-01-22,Partly cloudy,87,30,70,1014,Tiruchirappalli
+22,2019-01-23,Partly cloudy,88,31,70,1014,Tiruchirappalli
+23,2019-01-24,Partly cloudy,88,31,71,1014,Tiruchirappalli
+24,2019-01-25,Light rain shower,88,31,75,1014,Tiruchirappalli
+25,2019-01-26,Patchy rain possible,88,31,75,1014,Tiruchirappalli
+26,2019-01-27,Patchy rain possible,89,32,72,1014,Tiruchirappalli
+27,2019-01-28,Partly cloudy,87,31,71,1015,Tiruchirappalli
+28,2019-01-29,Overcast,85,30,69,1015,Tiruchirappalli
+29,2019-01-30,Cloudy,85,29,70,1015,Tiruchirappalli
+30,2019-01-31,Patchy rain possible,85,30,72,1015,Tiruchirappalli
+31,2019-02-01,Patchy rain possible,87,30,71,1015,Tiruchirappalli
+32,2019-02-02,Partly cloudy,89,31,67,1014,Tiruchirappalli
+33,2019-02-03,Partly cloudy,89,32,68,1014,Tiruchirappalli
+34,2019-02-04,Light rain shower,88,31,72,1016,Tiruchirappalli
+35,2019-02-05,Cloudy,90,32,68,1016,Tiruchirappalli
+36,2019-02-06,Partly cloudy,90,32,62,1014,Tiruchirappalli
+37,2019-02-07,Partly cloudy,91,33,66,1013,Tiruchirappalli
+38,2019-02-08,Patchy rain possible,91,33,69,1013,Tiruchirappalli
+39,2019-02-09,Partly cloudy,93,34,66,1013,Tiruchirappalli
+40,2019-02-10,Partly cloudy,92,33,68,1015,Tiruchirappalli
+41,2019-02-11,Light rain shower,88,31,70,1015,Tiruchirappalli
+42,2019-02-12,Patchy rain possible,89,32,71,1016,Tiruchirappalli
+43,2019-02-13,Partly cloudy,90,32,66,1017,Tiruchirappalli
+44,2019-02-14,Patchy rain possible,90,32,67,1015,Tiruchirappalli
+45,2019-02-15,Patchy rain possible,90,32,70,1014,Tiruchirappalli
+46,2019-02-16,Partly cloudy,94,34,66,1014,Tiruchirappalli
+47,2019-02-17,Patchy rain possible,94,35,66,1012,Tiruchirappalli
+48,2019-02-18,Cloudy,93,34,61,1011,Tiruchirappalli
+49,2019-02-19,Light rain shower,92,33,66,1012,Tiruchirappalli
+50,2019-02-20,Patchy rain possible,90,32,70,1015,Tiruchirappalli
+51,2019-02-21,Partly cloudy,93,34,64,1016,Tiruchirappalli
+52,2019-02-22,Partly cloudy,93,34,58,1015,Tiruchirappalli
+53,2019-02-23,Sunny,94,34,53,1013,Tiruchirappalli
+54,2019-02-24,Partly cloudy,95,35,54,1012,Tiruchirappalli
+55,2019-02-25,Partly cloudy,95,35,58,1011,Tiruchirappalli
+56,2019-02-26,Partly cloudy,97,36,62,1010,Tiruchirappalli
+57,2019-02-27,Partly cloudy,95,35,62,1009,Tiruchirappalli
+58,2019-02-28,Partly cloudy,95,35,60,1009,Tiruchirappalli
+59,2019-03-01,Patchy rain possible,95,35,61,1010,Tiruchirappalli
+60,2019-03-02,Patchy rain possible,94,34,63,1011,Tiruchirappalli
+61,2019-03-03,Patchy rain possible,94,34,64,1011,Tiruchirappalli
+62,2019-03-04,Patchy rain possible,95,35,61,1010,Tiruchirappalli
+63,2019-03-05,Partly cloudy,98,37,53,1009,Tiruchirappalli
+64,2019-03-06,Partly cloudy,100,38,54,1009,Tiruchirappalli
+65,2019-03-07,Partly cloudy,100,38,54,1009,Tiruchirappalli
+66,2019-03-08,Partly cloudy,99,37,52,1010,Tiruchirappalli
+67,2019-03-09,Moderate or heavy rain shower,94,34,57,1012,Tiruchirappalli
+68,2019-03-10,Light rain shower,95,35,61,1013,Tiruchirappalli
+69,2019-03-11,Partly cloudy,96,36,57,1014,Tiruchirappalli
+70,2019-03-12,Partly cloudy,97,36,54,1014,Tiruchirappalli
+71,2019-03-13,Partly cloudy,97,36,53,1014,Tiruchirappalli
+72,2019-03-14,Partly cloudy,97,36,52,1014,Tiruchirappalli
+73,2019-03-15,Partly cloudy,96,36,52,1013,Tiruchirappalli
+74,2019-03-16,Patchy rain possible,95,35,56,1013,Tiruchirappalli
+75,2019-03-17,Partly cloudy,95,35,57,1013,Tiruchirappalli
+76,2019-03-18,Cloudy,96,36,57,1012,Tiruchirappalli
+77,2019-03-19,Partly cloudy,97,36,57,1011,Tiruchirappalli
+78,2019-03-20,Partly cloudy,96,36,56,1011,Tiruchirappalli
+79,2019-03-21,Partly cloudy,98,36,57,1012,Tiruchirappalli
+80,2019-03-22,Patchy rain possible,99,37,58,1012,Tiruchirappalli
+81,2019-03-23,Patchy rain possible,100,38,57,1012,Tiruchirappalli
+82,2019-03-24,Partly cloudy,100,38,53,1011,Tiruchirappalli
+83,2019-03-25,Partly cloudy,100,38,52,1011,Tiruchirappalli
+84,2019-03-26,Partly cloudy,99,37,53,1012,Tiruchirappalli
+85,2019-03-27,Partly cloudy,99,37,52,1013,Tiruchirappalli
+86,2019-03-28,Sunny,102,39,44,1013,Tiruchirappalli
+87,2019-03-29,Partly cloudy,99,37,39,1011,Tiruchirappalli
+88,2019-03-30,Partly cloudy,99,37,40,1010,Tiruchirappalli
+89,2019-03-31,Partly cloudy,103,39,42,1010,Tiruchirappalli
+90,2019-04-01,Partly cloudy,102,39,43,1010,Tiruchirappalli
+91,2019-04-02,Partly cloudy,101,38,50,1010,Tiruchirappalli
+92,2019-04-03,Patchy rain possible,100,38,53,1011,Tiruchirappalli
+93,2019-04-04,Partly cloudy,99,37,52,1012,Tiruchirappalli
+94,2019-04-05,Partly cloudy,100,38,50,1012,Tiruchirappalli
+95,2019-04-06,Partly cloudy,102,39,46,1011,Tiruchirappalli
+96,2019-04-07,Partly cloudy,102,39,47,1010,Tiruchirappalli
+97,2019-04-08,Patchy rain possible,99,37,54,1009,Tiruchirappalli
+98,2019-04-09,Partly cloudy,102,39,49,1009,Tiruchirappalli
+99,2019-04-10,Partly cloudy,101,38,49,1010,Tiruchirappalli
+100,2019-04-11,Partly cloudy,102,39,49,1010,Tiruchirappalli
+101,2019-04-12,Partly cloudy,103,39,48,1009,Tiruchirappalli
+102,2019-04-13,Partly cloudy,102,39,50,1009,Tiruchirappalli
+103,2019-04-14,Partly cloudy,101,39,50,1010,Tiruchirappalli
+104,2019-04-15,Partly cloudy,101,39,50,1010,Tiruchirappalli
+105,2019-04-16,Patchy rain possible,102,39,48,1010,Tiruchirappalli
+106,2019-04-17,Moderate or heavy rain shower,102,39,50,1010,Tiruchirappalli
+107,2019-04-18,Patchy rain possible,102,39,49,1009,Tiruchirappalli
+108,2019-04-19,Moderate or heavy rain shower,101,38,51,1009,Tiruchirappalli
+109,2019-04-20,Moderate or heavy rain shower,101,38,51,1007,Tiruchirappalli
+110,2019-04-21,Patchy rain possible,96,36,52,1007,Tiruchirappalli
+111,2019-04-22,Partly cloudy,100,38,52,1007,Tiruchirappalli
+112,2019-04-23,Patchy rain possible,99,37,53,1008,Tiruchirappalli
+113,2019-04-24,Partly cloudy,101,38,50,1009,Tiruchirappalli
+114,2019-04-25,Partly cloudy,100,38,51,1009,Tiruchirappalli
+115,2019-04-26,Partly cloudy,103,39,48,1008,Tiruchirappalli
+116,2019-04-27,Partly cloudy,102,39,48,1008,Tiruchirappalli
+117,2019-04-28,Partly cloudy,103,39,49,1007,Tiruchirappalli
+118,2019-04-29,Patchy rain possible,103,40,48,1006,Tiruchirappalli
+119,2019-04-30,Partly cloudy,103,39,42,1005,Tiruchirappalli
+120,2019-05-01,Patchy light rain,99,37,45,1004,Tiruchirappalli
+121,2019-05-02,Partly cloudy,104,40,43,1005,Tiruchirappalli
+122,2019-05-03,Partly cloudy,105,41,37,1006,Tiruchirappalli
+123,2019-05-04,Partly cloudy,103,40,41,1008,Tiruchirappalli
+124,2019-05-05,Partly cloudy,105,40,41,1009,Tiruchirappalli
+125,2019-05-06,Partly cloudy,107,42,43,1009,Tiruchirappalli
+126,2019-05-07,Thundery outbreaks possible,103,40,47,1008,Tiruchirappalli
+127,2019-05-08,Partly cloudy,99,37,46,1008,Tiruchirappalli
+128,2019-05-09,Partly cloudy,104,40,43,1007,Tiruchirappalli
+129,2019-05-10,Patchy rain possible,105,40,47,1007,Tiruchirappalli
+130,2019-05-11,Partly cloudy,104,40,51,1008,Tiruchirappalli
+131,2019-05-12,Partly cloudy,102,39,46,1008,Tiruchirappalli
+132,2019-05-13,Cloudy,103,39,45,1007,Tiruchirappalli
+133,2019-05-14,Moderate rain at times,104,40,46,1006,Tiruchirappalli
+134,2019-05-15,Thundery outbreaks possible,102,39,50,1008,Tiruchirappalli
+135,2019-05-16,Thundery outbreaks possible,103,40,46,1008,Tiruchirappalli
+136,2019-05-17,Cloudy,103,40,47,1008,Tiruchirappalli
+137,2019-05-18,Partly cloudy,105,41,48,1007,Tiruchirappalli
+138,2019-05-19,Partly cloudy,105,40,48,1007,Tiruchirappalli
+139,2019-05-20,Partly cloudy,103,40,47,1008,Tiruchirappalli
+140,2019-05-21,Partly cloudy,103,40,47,1008,Tiruchirappalli
+141,2019-05-22,Partly cloudy,104,40,49,1008,Tiruchirappalli
+142,2019-05-23,Thundery outbreaks possible,104,40,54,1008,Tiruchirappalli
+143,2019-05-24,Thundery outbreaks possible,105,40,50,1008,Tiruchirappalli
+144,2019-05-25,Partly cloudy,104,40,44,1007,Tiruchirappalli
+145,2019-05-26,Partly cloudy,106,41,42,1005,Tiruchirappalli
+146,2019-05-27,Patchy rain possible,106,41,45,1005,Tiruchirappalli
+147,2019-05-28,Partly cloudy,106,41,45,1005,Tiruchirappalli
+148,2019-05-29,Partly cloudy,105,41,44,1005,Tiruchirappalli
+149,2019-05-30,Cloudy,104,40,44,1004,Tiruchirappalli
+150,2019-05-31,Partly cloudy,98,37,55,1006,Tiruchirappalli
+151,2019-06-01,Partly cloudy,102,39,48,1006,Tiruchirappalli
+152,2019-06-02,Patchy rain possible,103,40,47,1006,Tiruchirappalli
+153,2019-06-03,Moderate or heavy rain with thunder,100,38,54,1006,Tiruchirappalli
+154,2019-06-04,Light rain shower,99,37,52,1006,Tiruchirappalli
+155,2019-06-05,Thundery outbreaks possible,99,37,53,1004,Tiruchirappalli
+156,2019-06-06,Partly cloudy,100,38,53,1005,Tiruchirappalli
+157,2019-06-07,Partly cloudy,103,39,48,1005,Tiruchirappalli
+158,2019-06-08,Partly cloudy,102,39,46,1005,Tiruchirappalli
+159,2019-06-09,Thundery outbreaks possible,102,39,44,1006,Tiruchirappalli
+160,2019-06-10,Patchy rain possible,101,38,44,1006,Tiruchirappalli
+161,2019-06-11,Partly cloudy,99,37,46,1006,Tiruchirappalli
+162,2019-06-12,Partly cloudy,100,38,46,1006,Tiruchirappalli
+163,2019-06-13,Partly cloudy,100,38,46,1007,Tiruchirappalli
+164,2019-06-14,Partly cloudy,100,38,46,1006,Tiruchirappalli
+165,2019-06-15,Patchy rain possible,102,39,46,1007,Tiruchirappalli
+166,2019-06-16,Partly cloudy,102,39,45,1007,Tiruchirappalli
+167,2019-06-17,Partly cloudy,100,38,45,1007,Tiruchirappalli
+168,2019-06-18,Patchy rain possible,101,39,45,1006,Tiruchirappalli
+169,2019-06-19,Moderate or heavy rain shower,102,39,47,1005,Tiruchirappalli
+170,2019-06-20,Patchy rain possible,99,37,50,1006,Tiruchirappalli
+171,2019-06-21,Patchy rain possible,94,34,54,1006,Tiruchirappalli
+172,2019-06-22,Patchy rain possible,91,33,55,1005,Tiruchirappalli
+173,2019-06-23,Patchy rain possible,97,36,53,1004,Tiruchirappalli
+174,2019-06-24,Patchy rain possible,100,38,49,1005,Tiruchirappalli
+175,2019-06-25,Partly cloudy,97,36,49,1006,Tiruchirappalli
+176,2019-06-26,Patchy rain possible,96,36,51,1007,Tiruchirappalli
+177,2019-06-27,Partly cloudy,97,36,49,1006,Tiruchirappalli
+178,2019-06-28,Partly cloudy,99,37,46,1006,Tiruchirappalli
+179,2019-06-29,Partly cloudy,99,37,46,1006,Tiruchirappalli
+180,2019-06-30,Partly cloudy,96,35,48,1006,Tiruchirappalli
+181,2019-07-01,Overcast,101,39,48,1005,Tiruchirappalli
+182,2019-07-02,Partly cloudy,98,37,46,1005,Tiruchirappalli
+183,2019-07-03,Partly cloudy,101,38,45,1006,Tiruchirappalli
+184,2019-07-04,Patchy rain possible,99,37,45,1006,Tiruchirappalli
+185,2019-07-05,Patchy rain possible,98,36,46,1006,Tiruchirappalli
+186,2019-07-06,Partly cloudy,96,36,44,1006,Tiruchirappalli
+187,2019-07-07,Partly cloudy,100,38,41,1007,Tiruchirappalli
+188,2019-07-08,Patchy rain possible,100,38,44,1007,Tiruchirappalli
+189,2019-07-09,Patchy rain possible,99,37,45,1007,Tiruchirappalli
+190,2019-07-10,Light rain shower,98,36,48,1007,Tiruchirappalli
+191,2019-07-11,Light rain shower,98,37,47,1008,Tiruchirappalli
+192,2019-07-12,Partly cloudy,100,38,49,1009,Tiruchirappalli
+193,2019-07-13,Patchy rain possible,98,37,52,1009,Tiruchirappalli
+194,2019-07-14,Torrential rain shower,97,36,60,1008,Tiruchirappalli
+195,2019-07-15,Patchy rain possible,97,36,60,1007,Tiruchirappalli
+196,2019-07-16,Partly cloudy,98,37,56,1007,Tiruchirappalli
+197,2019-07-17,Patchy rain possible,97,36,57,1005,Tiruchirappalli
+198,2019-07-18,Patchy rain possible,96,36,61,1004,Tiruchirappalli
+199,2019-07-19,Patchy rain possible,88,31,67,1003,Tiruchirappalli
+200,2019-07-20,Partly cloudy,93,34,55,1004,Tiruchirappalli
+201,2019-07-21,Patchy rain possible,93,34,55,1004,Tiruchirappalli
+202,2019-07-22,Moderate or heavy rain shower,83,28,72,1005,Tiruchirappalli
+203,2019-07-23,Moderate or heavy rain shower,89,32,63,1005,Tiruchirappalli
+204,2019-07-24,Light rain shower,95,35,59,1006,Tiruchirappalli
+205,2019-07-25,Light rain shower,95,35,62,1008,Tiruchirappalli
+206,2019-07-26,Cloudy,93,34,64,1008,Tiruchirappalli
+207,2019-07-27,Partly cloudy,91,33,55,1007,Tiruchirappalli
+208,2019-07-28,Patchy rain possible,95,35,52,1007,Tiruchirappalli
+209,2019-07-29,Patchy rain possible,95,35,52,1007,Tiruchirappalli
+210,2019-07-30,Partly cloudy,97,36,52,1008,Tiruchirappalli
+211,2019-07-31,Patchy rain possible,98,37,50,1009,Tiruchirappalli
+212,2019-08-01,Partly cloudy,97,36,50,1009,Tiruchirappalli
+213,2019-08-02,Partly cloudy,97,36,46,1008,Tiruchirappalli
+214,2019-08-03,Partly cloudy,96,35,47,1008,Tiruchirappalli
+215,2019-08-04,Partly cloudy,95,35,46,1008,Tiruchirappalli
+216,2019-08-05,Partly cloudy,95,35,46,1007,Tiruchirappalli
+217,2019-08-06,Patchy rain possible,96,35,48,1006,Tiruchirappalli
+218,2019-08-07,Overcast,94,34,52,1006,Tiruchirappalli
+219,2019-08-08,Moderate or heavy rain shower,92,34,61,1006,Tiruchirappalli
+220,2019-08-09,Patchy light drizzle,86,30,69,1007,Tiruchirappalli
+221,2019-08-10,Light rain shower,92,33,60,1007,Tiruchirappalli
+222,2019-08-11,Light rain shower,92,33,58,1007,Tiruchirappalli
+223,2019-08-12,Patchy rain possible,95,35,56,1007,Tiruchirappalli
+224,2019-08-13,Patchy rain possible,93,34,59,1007,Tiruchirappalli
+225,2019-08-14,Light rain shower,92,33,64,1008,Tiruchirappalli
+226,2019-08-15,Patchy rain possible,95,35,55,1008,Tiruchirappalli
+227,2019-08-16,Torrential rain shower,94,35,63,1008,Tiruchirappalli
+228,2019-08-17,Light rain shower,81,27,80,1008,Tiruchirappalli
+229,2019-08-18,Light drizzle,84,29,76,1008,Tiruchirappalli
+230,2019-08-19,Light rain shower,91,33,68,1008,Tiruchirappalli
+231,2019-08-20,Light rain shower,92,34,64,1008,Tiruchirappalli
+232,2019-08-21,Moderate or heavy rain shower,90,32,67,1007,Tiruchirappalli
+233,2019-08-22,Patchy rain possible,89,32,66,1008,Tiruchirappalli
+234,2019-08-23,Partly cloudy,91,33,61,1008,Tiruchirappalli
+235,2019-08-24,Patchy rain possible,93,34,58,1008,Tiruchirappalli
+236,2019-08-25,Light rain shower,87,30,66,1008,Tiruchirappalli
+237,2019-08-26,Light rain shower,85,29,72,1008,Tiruchirappalli
+238,2019-08-27,Light rain shower,83,28,72,1008,Tiruchirappalli
+239,2019-08-28,Light rain shower,86,30,67,1008,Tiruchirappalli
+240,2019-08-29,Partly cloudy,93,34,59,1007,Tiruchirappalli
+241,2019-08-30,Patchy rain possible,90,32,60,1006,Tiruchirappalli
+242,2019-08-31,Partly cloudy,94,34,55,1005,Tiruchirappalli
+243,2019-09-01,Light rain shower,90,32,59,1006,Tiruchirappalli
+244,2019-09-02,Light rain shower,92,34,58,1008,Tiruchirappalli
+245,2019-09-03,Light rain shower,92,33,58,1007,Tiruchirappalli
+246,2019-09-04,Partly cloudy,92,34,55,1007,Tiruchirappalli
+247,2019-09-05,Patchy rain possible,95,35,53,1007,Tiruchirappalli
+248,2019-09-06,Partly cloudy,95,35,51,1006,Tiruchirappalli
+249,2019-09-07,Partly cloudy,95,35,49,1007,Tiruchirappalli
+250,2019-09-08,Partly cloudy,95,35,48,1008,Tiruchirappalli
+251,2019-09-09,Partly cloudy,96,35,49,1008,Tiruchirappalli
+252,2019-09-10,Patchy rain possible,98,37,50,1007,Tiruchirappalli
+253,2019-09-11,Moderate or heavy rain shower,92,33,64,1009,Tiruchirappalli
+254,2019-09-12,Light rain shower,87,30,69,1010,Tiruchirappalli
+255,2019-09-13,Light rain shower,94,34,63,1010,Tiruchirappalli
+256,2019-09-14,Patchy rain possible,94,34,63,1010,Tiruchirappalli
+257,2019-09-15,Torrential rain shower,93,34,67,1009,Tiruchirappalli
+258,2019-09-16,Light rain shower,93,34,65,1008,Tiruchirappalli
+259,2019-09-17,Light rain shower,91,33,65,1007,Tiruchirappalli
+260,2019-09-18,Moderate or heavy rain shower,92,33,65,1007,Tiruchirappalli
+261,2019-09-19,Moderate or heavy rain shower,91,33,66,1007,Tiruchirappalli
+262,2019-09-20,Patchy rain possible,92,34,66,1007,Tiruchirappalli
+263,2019-09-21,Light rain shower,94,34,65,1007,Tiruchirappalli
+264,2019-09-22,Light rain shower,90,32,71,1008,Tiruchirappalli
+265,2019-09-23,Moderate or heavy rain shower,90,32,75,1008,Tiruchirappalli
+266,2019-09-24,Light rain shower,84,29,76,1007,Tiruchirappalli
+267,2019-09-25,Torrential rain shower,86,30,79,1008,Tiruchirappalli
+268,2019-09-26,Patchy rain possible,87,30,77,1011,Tiruchirappalli
+269,2019-09-27,Moderate or heavy rain shower,90,32,72,1013,Tiruchirappalli
+270,2019-09-28,Light rain shower,89,32,71,1012,Tiruchirappalli
+271,2019-09-29,Cloudy,89,32,68,1012,Tiruchirappalli
+272,2019-09-30,Moderate or heavy rain shower,87,31,74,1012,Tiruchirappalli
+273,2019-10-01,Patchy rain possible,92,33,70,1012,Tiruchirappalli
+274,2019-10-02,Patchy rain possible,93,34,67,1011,Tiruchirappalli
+275,2019-10-03,Light rain shower,90,32,70,1010,Tiruchirappalli
+276,2019-10-04,Partly cloudy,94,34,64,1010,Tiruchirappalli
+277,2019-10-05,Patchy rain possible,93,34,64,1009,Tiruchirappalli
+278,2019-10-06,Partly cloudy,94,34,64,1009,Tiruchirappalli
+279,2019-10-07,Patchy rain possible,93,34,65,1010,Tiruchirappalli
+280,2019-10-08,Patchy rain possible,95,35,62,1009,Tiruchirappalli
+281,2019-10-09,Patchy rain possible,94,34,62,1009,Tiruchirappalli
+282,2019-10-10,Partly cloudy,94,34,61,1009,Tiruchirappalli
+283,2019-10-11,Patchy rain possible,94,34,64,1009,Tiruchirappalli
+284,2019-10-12,Cloudy,93,34,65,1009,Tiruchirappalli
+285,2019-10-13,Moderate or heavy rain shower,90,32,70,1010,Tiruchirappalli
+286,2019-10-14,Light rain shower,90,32,71,1010,Tiruchirappalli
+287,2019-10-15,Moderate or heavy rain shower,88,31,75,1010,Tiruchirappalli
+288,2019-10-16,Moderate or heavy rain shower,89,32,74,1009,Tiruchirappalli
+289,2019-10-17,Moderate or heavy rain shower,86,30,80,1010,Tiruchirappalli
+290,2019-10-18,Torrential rain shower,87,30,78,1010,Tiruchirappalli
+291,2019-10-19,Patchy rain possible,88,31,76,1010,Tiruchirappalli
+292,2019-10-20,Moderate or heavy rain shower,89,32,77,1010,Tiruchirappalli
+293,2019-10-21,Moderate or heavy rain shower,87,30,82,1009,Tiruchirappalli
+294,2019-10-22,Patchy light drizzle,79,26,89,1008,Tiruchirappalli
+295,2019-10-23,Light rain shower,86,30,80,1008,Tiruchirappalli
+296,2019-10-24,Patchy rain possible,79,26,86,1008,Tiruchirappalli
+297,2019-10-25,Light rain shower,84,29,82,1009,Tiruchirappalli
+298,2019-10-26,Light rain shower,85,30,78,1010,Tiruchirappalli
+299,2019-10-27,Moderate or heavy rain shower,86,30,77,1010,Tiruchirappalli
+300,2019-10-28,Patchy rain possible,85,30,79,1011,Tiruchirappalli
+301,2019-10-29,Light rain shower,84,29,84,1011,Tiruchirappalli
+302,2019-10-30,Moderate or heavy rain shower,79,26,90,1011,Tiruchirappalli
+303,2019-10-31,Light rain shower,81,27,90,1011,Tiruchirappalli
+304,2019-11-01,Partly cloudy,88,31,74,1010,Tiruchirappalli
+305,2019-11-02,Patchy rain possible,86,30,79,1011,Tiruchirappalli
+306,2019-11-03,Patchy rain possible,86,30,79,1012,Tiruchirappalli
+307,2019-11-04,Partly cloudy,86,30,78,1013,Tiruchirappalli
+308,2019-11-05,Partly cloudy,88,31,74,1011,Tiruchirappalli
+309,2019-11-06,Patchy rain possible,87,31,76,1010,Tiruchirappalli
+310,2019-11-07,Patchy rain possible,87,31,78,1010,Tiruchirappalli
+311,2019-11-08,Moderate or heavy rain shower,88,31,78,1009,Tiruchirappalli
+312,2019-11-09,Moderate or heavy rain shower,87,30,81,1010,Tiruchirappalli
+313,2019-11-10,Moderate or heavy rain shower,87,31,79,1010,Tiruchirappalli
+314,2019-11-11,Moderate or heavy rain shower,86,30,80,1010,Tiruchirappalli
+315,2019-11-12,Patchy rain possible,85,29,82,1011,Tiruchirappalli
+316,2019-11-13,Light rain shower,85,30,80,1012,Tiruchirappalli
+317,2019-11-14,Light rain shower,85,30,79,1011,Tiruchirappalli
+318,2019-11-15,Light rain shower,83,28,87,1011,Tiruchirappalli
+319,2019-11-16,Light rain shower,86,30,83,1011,Tiruchirappalli
+320,2019-11-17,Patchy rain possible,86,30,83,1011,Tiruchirappalli
+321,2019-11-18,Torrential rain shower,85,30,82,1011,Tiruchirappalli
+322,2019-11-19,Light rain shower,86,30,82,1011,Tiruchirappalli
+323,2019-11-20,Light rain shower,85,30,83,1010,Tiruchirappalli
+324,2019-11-21,Patchy rain possible,86,30,82,1011,Tiruchirappalli
+325,2019-11-22,Light rain shower,82,28,85,1012,Tiruchirappalli
+326,2019-11-23,Light rain shower,83,28,82,1012,Tiruchirappalli
+327,2019-11-24,Light rain shower,82,28,81,1012,Tiruchirappalli
+328,2019-11-25,Moderate or heavy rain shower,83,29,81,1012,Tiruchirappalli
+329,2019-11-26,Patchy rain possible,83,28,82,1011,Tiruchirappalli
+330,2019-11-27,Light rain shower,84,29,83,1011,Tiruchirappalli
+331,2019-11-28,Moderate or heavy rain shower,83,28,87,1011,Tiruchirappalli
+332,2019-11-29,Moderate or heavy rain shower,82,28,87,1011,Tiruchirappalli
+333,2019-11-30,Moderate or heavy rain shower,83,28,87,1011,Tiruchirappalli
+334,2019-12-01,Torrential rain shower,83,28,88,1011,Tiruchirappalli
+335,2019-12-02,Light rain shower,79,26,90,1012,Tiruchirappalli
+336,2019-12-03,Patchy rain possible,84,29,85,1012,Tiruchirappalli
+337,2019-12-04,Light rain shower,83,29,84,1013,Tiruchirappalli
+338,2019-12-05,Patchy rain possible,81,27,80,1014,Tiruchirappalli
+339,2019-12-06,Partly cloudy,80,27,77,1014,Tiruchirappalli
+340,2019-12-07,Moderate or heavy rain shower,81,27,83,1013,Tiruchirappalli
+341,2019-12-08,Patchy rain possible,82,28,81,1014,Tiruchirappalli
+342,2019-12-09,Light rain shower,82,28,81,1014,Tiruchirappalli
+343,2019-12-10,Patchy rain possible,82,28,81,1012,Tiruchirappalli
+344,2019-12-11,Partly cloudy,82,28,80,1011,Tiruchirappalli
+345,2019-12-12,Partly cloudy,83,28,79,1012,Tiruchirappalli
+346,2019-12-13,Moderate or heavy rain shower,82,28,82,1012,Tiruchirappalli
+347,2019-12-14,Moderate or heavy rain shower,82,28,84,1013,Tiruchirappalli
+348,2019-12-15,Patchy rain possible,83,28,80,1013,Tiruchirappalli
+349,2019-12-16,Moderate or heavy rain shower,82,28,80,1013,Tiruchirappalli
+350,2019-12-17,Cloudy,81,27,79,1013,Tiruchirappalli
+351,2019-12-18,Patchy rain possible,82,28,80,1014,Tiruchirappalli
+352,2019-12-19,Light rain shower,83,29,79,1013,Tiruchirappalli
+353,2019-12-20,Light rain shower,83,28,79,1012,Tiruchirappalli
+354,2019-12-21,Patchy rain possible,83,28,79,1013,Tiruchirappalli
+355,2019-12-22,Patchy rain possible,82,28,79,1013,Tiruchirappalli
+356,2019-12-23,Patchy rain possible,82,28,78,1014,Tiruchirappalli
+357,2019-12-24,Light rain shower,82,28,81,1013,Tiruchirappalli
+358,2019-12-25,Light rain shower,80,27,88,1013,Tiruchirappalli
+359,2019-12-26,Patchy rain possible,80,27,82,1013,Tiruchirappalli
+360,2019-12-27,Partly cloudy,82,28,77,1013,Tiruchirappalli
+361,2019-12-28,Patchy rain possible,82,28,76,1013,Tiruchirappalli
+362,2019-12-29,Patchy rain possible,82,28,79,1013,Tiruchirappalli
+363,2019-12-30,Patchy rain possible,83,28,80,1013,Tiruchirappalli
+364,2019-12-31,Patchy rain possible,83,28,81,1014,Tiruchirappalli
+365,2020-01-01,Light rain shower,85,30,81,1014,Tiruchirappalli
+366,2020-01-02,Patchy rain possible,87,31,81,1015,Tiruchirappalli
+367,2020-01-03,Light rain shower,87,30,82,1014,Tiruchirappalli
+368,2020-01-04,Patchy rain possible,87,30,81,1012,Tiruchirappalli
+369,2020-01-05,Patchy rain possible,86,30,79,1012,Tiruchirappalli
+370,2020-01-06,Patchy rain possible,85,30,81,1014,Tiruchirappalli
+371,2020-01-07,Patchy rain possible,84,29,81,1014,Tiruchirappalli
+372,2020-01-08,Partly cloudy,86,30,76,1013,Tiruchirappalli
+373,2020-01-09,Partly cloudy,85,30,73,1013,Tiruchirappalli
+374,2020-01-10,Partly cloudy,85,29,72,1013,Tiruchirappalli
+375,2020-01-11,Partly cloudy,85,29,73,1014,Tiruchirappalli
+376,2020-01-12,Patchy rain possible,84,29,77,1013,Tiruchirappalli
+377,2020-01-13,Patchy rain possible,83,29,75,1012,Tiruchirappalli
+378,2020-01-14,Partly cloudy,85,30,68,1012,Tiruchirappalli
+379,2020-01-15,Partly cloudy,84,29,67,1013,Tiruchirappalli
+380,2020-01-16,Partly cloudy,86,30,68,1013,Tiruchirappalli
+381,2020-01-17,Cloudy,87,31,76,1013,Tiruchirappalli
+382,2020-01-18,Light rain shower,85,29,82,1012,Tiruchirappalli
+383,2020-01-19,Patchy rain possible,85,30,76,1013,Tiruchirappalli
+384,2020-01-20,Partly cloudy,89,31,72,1014,Tiruchirappalli
+385,2020-01-21,Partly cloudy,86,30,72,1015,Tiruchirappalli
+386,2020-01-22,Patchy rain possible,83,28,75,1015,Tiruchirappalli
+387,2020-01-23,Light rain shower,87,30,72,1014,Tiruchirappalli
+388,2020-01-24,Partly cloudy,87,31,73,1014,Tiruchirappalli
+389,2020-01-25,Sunny,88,31,63,1014,Tiruchirappalli
+390,2020-01-26,Sunny,88,31,65,1013,Tiruchirappalli
+391,2020-01-27,Sunny,88,31,64,1013,Tiruchirappalli
+392,2020-01-28,Sunny,90,32,67,1013,Tiruchirappalli
+393,2020-01-29,Sunny,90,32,68,1014,Tiruchirappalli
+394,2020-01-30,Sunny,90,32,66,1013,Tiruchirappalli
+395,2020-01-31,Partly cloudy,91,33,67,1012,Tiruchirappalli
+396,2020-02-01,Patchy rain possible,90,32,67,1013,Tiruchirappalli
+397,2020-02-02,Partly cloudy,90,32,66,1015,Tiruchirappalli
+398,2020-02-03,Partly cloudy,90,32,65,1015,Tiruchirappalli
+399,2020-02-04,Patchy rain possible,88,31,73,1013,Tiruchirappalli
+400,2020-02-05,Light rain shower,87,31,69,1013,Tiruchirappalli
+401,2020-02-06,Partly cloudy,89,31,62,1014,Tiruchirappalli
+402,2020-02-07,Partly cloudy,88,31,65,1014,Tiruchirappalli
+403,2020-02-08,Partly cloudy,89,32,64,1014,Tiruchirappalli
+404,2020-02-09,Cloudy,89,32,65,1014,Tiruchirappalli
+405,2020-02-10,Patchy rain possible,86,30,70,1014,Tiruchirappalli
+406,2020-02-11,Light rain shower,86,30,72,1015,Tiruchirappalli
+407,2020-02-12,Light rain shower,86,30,76,1015,Tiruchirappalli
+408,2020-02-13,Patchy rain possible,91,33,67,1014,Tiruchirappalli
+409,2020-02-14,Partly cloudy,92,34,59,1013,Tiruchirappalli
+410,2020-02-15,Sunny,93,34,53,1013,Tiruchirappalli
+411,2020-02-16,Sunny,92,33,56,1014,Tiruchirappalli
+412,2020-02-17,Partly cloudy,91,33,60,1015,Tiruchirappalli
+413,2020-02-18,Sunny,91,33,57,1014,Tiruchirappalli
+414,2020-02-19,Partly cloudy,91,33,59,1014,Tiruchirappalli
+415,2020-02-20,Sunny,92,33,64,1014,Tiruchirappalli
+416,2020-02-21,Cloudy,89,32,68,1015,Tiruchirappalli
+417,2020-02-22,Light rain shower,90,32,70,1016,Tiruchirappalli
+418,2020-02-23,Light rain shower,89,32,71,1015,Tiruchirappalli
+419,2020-02-24,Partly cloudy,91,33,69,1013,Tiruchirappalli
+420,2020-02-25,Partly cloudy,93,34,67,1012,Tiruchirappalli
+421,2020-02-26,Partly cloudy,92,33,67,1012,Tiruchirappalli
+422,2020-02-27,Patchy rain possible,94,35,68,1012,Tiruchirappalli
+423,2020-02-28,Cloudy,91,33,65,1011,Tiruchirappalli
+424,2020-03-01,Partly cloudy,93,34,61,1011,Tiruchirappalli
+425,2020-03-02,Partly cloudy,93,34,59,1012,Tiruchirappalli
+426,2020-03-03,Partly cloudy,96,35,53,1012,Tiruchirappalli
+427,2020-03-04,Partly cloudy,96,36,49,1011,Tiruchirappalli
+428,2020-03-05,Partly cloudy,96,36,51,1010,Tiruchirappalli
+429,2020-03-06,Cloudy,93,34,64,1011,Tiruchirappalli
+430,2020-03-07,Patchy rain possible,93,34,68,1012,Tiruchirappalli
+431,2020-03-08,Moderate or heavy rain shower,91,33,70,1011,Tiruchirappalli
+432,2020-03-09,Patchy rain possible,90,32,67,1011,Tiruchirappalli
+433,2020-03-10,Partly cloudy,95,35,62,1011,Tiruchirappalli
+434,2020-03-11,Partly cloudy,94,35,62,1012,Tiruchirappalli
+435,2020-03-12,Partly cloudy,95,35,59,1013,Tiruchirappalli
+436,2020-03-13,Partly cloudy,96,36,62,1012,Tiruchirappalli
+437,2020-03-14,Patchy rain possible,97,36,64,1011,Tiruchirappalli
+438,2020-03-15,Patchy rain possible,96,36,61,1011,Tiruchirappalli
+439,2020-03-16,Patchy rain possible,94,34,65,1012,Tiruchirappalli
+440,2020-03-17,Partly cloudy,99,37,62,1014,Tiruchirappalli
+441,2020-03-18,Partly cloudy,99,37,61,1013,Tiruchirappalli
+442,2020-03-19,Partly cloudy,99,37,60,1012,Tiruchirappalli
+443,2020-03-20,Partly cloudy,99,37,52,1012,Tiruchirappalli
+444,2020-03-21,Partly cloudy,98,37,51,1011,Tiruchirappalli
+445,2020-03-22,Partly cloudy,98,37,54,1011,Tiruchirappalli
+446,2020-03-23,Patchy rain possible,97,36,55,1011,Tiruchirappalli
+447,2020-03-24,Partly cloudy,98,37,58,1010,Tiruchirappalli
+448,2020-03-25,Cloudy,98,37,60,1010,Tiruchirappalli
+449,2020-03-26,Partly cloudy,98,37,59,1010,Tiruchirappalli
+450,2020-03-27,Patchy rain possible,97,36,58,1012,Tiruchirappalli
+451,2020-03-28,Partly cloudy,99,37,56,1011,Tiruchirappalli
+452,2020-03-29,Partly cloudy,99,37,54,1010,Tiruchirappalli
+453,2020-03-30,Partly cloudy,101,38,50,1010,Tiruchirappalli
+454,2020-03-31,Partly cloudy,101,38,53,1011,Tiruchirappalli
+455,2020-04-01,Partly cloudy,103,39,56,1011,Tiruchirappalli
+456,2020-04-02,Partly cloudy,103,39,59,1009,Tiruchirappalli
+457,2020-04-03,Partly cloudy,102,39,60,1011,Tiruchirappalli
+458,2020-04-04,Partly cloudy,99,37,60,1011,Tiruchirappalli
+459,2020-04-05,Light rain shower,93,34,66,1012,Tiruchirappalli
+460,2020-04-06,Cloudy,99,37,63,1011,Tiruchirappalli
+461,2020-04-07,Partly cloudy,102,39,57,1010,Tiruchirappalli
+462,2020-04-08,Partly cloudy,99,37,54,1011,Tiruchirappalli
+463,2020-04-09,Overcast,101,38,50,1011,Tiruchirappalli
+464,2020-04-10,Partly cloudy,100,38,55,1011,Tiruchirappalli
+465,2020-04-11,Partly cloudy,101,38,54,1012,Tiruchirappalli
+466,2020-04-12,Partly cloudy,101,39,52,1012,Tiruchirappalli
+467,2020-04-13,Partly cloudy,102,39,51,1010,Tiruchirappalli
+468,2020-04-14,Partly cloudy,102,39,52,1011,Tiruchirappalli
+469,2020-04-15,Partly cloudy,102,39,54,1011,Tiruchirappalli
+470,2020-04-16,Patchy rain possible,103,39,52,1010,Tiruchirappalli
+471,2020-04-17,Partly cloudy,104,40,52,1009,Tiruchirappalli
+472,2020-04-18,Partly cloudy,102,39,50,1010,Tiruchirappalli
+473,2020-04-19,Patchy rain possible,101,38,53,1010,Tiruchirappalli
+474,2020-04-20,Patchy rain possible,102,39,55,1010,Tiruchirappalli
+475,2020-04-21,Partly cloudy,101,39,53,1010,Tiruchirappalli
+476,2020-04-22,Partly cloudy,102,39,52,1009,Tiruchirappalli
+477,2020-04-23,Partly cloudy,104,40,50,1009,Tiruchirappalli
+478,2020-04-24,Partly cloudy,104,40,51,1008,Tiruchirappalli
+479,2020-04-25,Partly cloudy,104,40,48,1008,Tiruchirappalli
+480,2020-04-26,Patchy rain possible,99,37,56,1009,Tiruchirappalli
+481,2020-04-27,Partly cloudy,99,37,60,1010,Tiruchirappalli
+482,2020-04-28,Light rain shower,97,36,63,1010,Tiruchirappalli
+483,2020-04-29,Partly cloudy,96,35,55,1010,Tiruchirappalli
+484,2020-04-30,Partly cloudy,100,38,51,1010,Tiruchirappalli
+485,2020-05-01,Partly cloudy,102,39,48,1009,Tiruchirappalli
+486,2020-05-02,Cloudy,103,40,46,1007,Tiruchirappalli
+487,2020-05-03,Partly cloudy,104,40,48,1008,Tiruchirappalli
+488,2020-05-04,Partly cloudy,104,40,51,1009,Tiruchirappalli
+489,2020-05-05,Partly cloudy,103,40,52,1009,Tiruchirappalli
+490,2020-05-06,Partly cloudy,103,39,52,1008,Tiruchirappalli
+491,2020-05-07,Partly cloudy,104,40,52,1008,Tiruchirappalli
+492,2020-05-08,Cloudy,103,40,51,1008,Tiruchirappalli
+493,2020-05-09,Partly cloudy,105,41,51,1008,Tiruchirappalli
+494,2020-05-10,Partly cloudy,104,40,55,1008,Tiruchirappalli
+495,2020-05-11,Patchy rain possible,104,40,53,1008,Tiruchirappalli
+496,2020-05-12,Patchy rain possible,90,32,61,1008,Tiruchirappalli
+497,2020-05-13,Partly cloudy,102,39,54,1007,Tiruchirappalli
+498,2020-05-14,Partly cloudy,103,40,50,1006,Tiruchirappalli
+499,2020-05-15,Partly cloudy,106,41,47,1005,Tiruchirappalli
+500,2020-05-16,Partly cloudy,106,41,47,1005,Tiruchirappalli
+501,2020-05-17,Partly cloudy,108,42,43,1004,Tiruchirappalli
+502,2020-05-18,Light rain shower,98,36,55,1003,Tiruchirappalli
+503,2020-05-19,Partly cloudy,101,38,55,1002,Tiruchirappalli
+504,2020-05-20,Partly cloudy,102,39,52,1003,Tiruchirappalli
+505,2020-05-21,Partly cloudy,103,39,48,1005,Tiruchirappalli
+506,2020-05-22,Partly cloudy,101,38,48,1006,Tiruchirappalli
+507,2020-05-23,Partly cloudy,102,39,50,1006,Tiruchirappalli
+508,2020-05-24,Cloudy,104,40,47,1006,Tiruchirappalli
+509,2020-05-25,Light rain shower,102,39,50,1007,Tiruchirappalli
+510,2020-05-26,Partly cloudy,103,40,51,1007,Tiruchirappalli
+511,2020-05-27,Patchy light rain with thunder,101,38,53,1007,Tiruchirappalli
+512,2020-05-28,Partly cloudy,100,38,57,1006,Tiruchirappalli
+513,2020-05-29,Patchy rain possible,99,37,58,1007,Tiruchirappalli
+514,2020-05-30,Partly cloudy,98,37,55,1007,Tiruchirappalli
+515,2020-05-31,Thundery outbreaks possible,100,38,57,1008,Tiruchirappalli
+516,2020-06-01,Cloudy,97,36,55,1009,Tiruchirappalli
+517,2020-06-02,Patchy rain possible,95,35,59,1009,Tiruchirappalli
+518,2020-06-03,Partly cloudy,98,37,54,1008,Tiruchirappalli
+519,2020-06-04,Partly cloudy,99,37,51,1008,Tiruchirappalli
+520,2020-06-05,Cloudy,98,37,54,1008,Tiruchirappalli
+521,2020-06-06,Patchy rain possible,93,34,57,1007,Tiruchirappalli
+522,2020-06-07,Patchy rain possible,92,34,59,1007,Tiruchirappalli
+523,2020-06-08,Partly cloudy,93,34,55,1006,Tiruchirappalli
+524,2020-06-09,Partly cloudy,100,38,52,1006,Tiruchirappalli
+525,2020-06-10,Partly cloudy,95,35,54,1005,Tiruchirappalli
+526,2020-06-11,Partly cloudy,95,35,52,1004,Tiruchirappalli
+527,2020-06-12,Partly cloudy,96,36,44,1004,Tiruchirappalli
+528,2020-06-13,Patchy rain possible,98,37,47,1004,Tiruchirappalli
+529,2020-06-14,Partly cloudy,95,35,48,1006,Tiruchirappalli
+530,2020-06-15,Partly cloudy,101,38,43,1005,Tiruchirappalli
+531,2020-06-16,Light rain shower,100,38,46,1005,Tiruchirappalli
+532,2020-06-17,Partly cloudy,99,37,48,1005,Tiruchirappalli
+533,2020-06-18,Partly cloudy,100,38,46,1007,Tiruchirappalli
+534,2020-06-19,Partly cloudy,101,38,46,1007,Tiruchirappalli
+535,2020-06-20,Partly cloudy,101,38,47,1006,Tiruchirappalli
+536,2020-06-21,Partly cloudy,100,38,49,1005,Tiruchirappalli
+537,2020-06-22,Partly cloudy,98,37,52,1005,Tiruchirappalli
+538,2020-06-23,Patchy rain possible,89,32,53,1006,Tiruchirappalli
+539,2020-06-24,Light rain shower,89,32,60,1006,Tiruchirappalli
+540,2020-06-25,Partly cloudy,90,32,62,1005,Tiruchirappalli
+541,2020-06-26,Patchy rain possible,96,35,57,1004,Tiruchirappalli
+542,2020-06-27,Partly cloudy,99,37,53,1005,Tiruchirappalli
+543,2020-06-28,Partly cloudy,96,36,55,1004,Tiruchirappalli
+544,2020-06-29,Partly cloudy,96,36,58,1004,Tiruchirappalli
+545,2020-06-30,Partly cloudy,97,36,55,1004,Tiruchirappalli

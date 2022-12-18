@@ -1,0 +1,27 @@
+.para {
+  margin-left: 5%;
+  font-family: 'Lato', sans-serif;
+  font-size:18px;
+  color:#DEB774;
+}
+#img{
+  width:100px;
+  height: 100px;
+}
+#bg{
+  background-color:#182627;
+  width:100%;
+  height: 100%;
+}
+#tab{
+  width:300px;
+  border-collapse:separate;
+  border-spacing:0 15px;
+  margin-left: 17.5%;
+  margin-top:5%;
+  font-family: 'Lato', sans-serif;
+
+
+  font-size:18px;
+  color:#DEB774;
+}

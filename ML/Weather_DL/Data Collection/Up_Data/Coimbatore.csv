@@ -1,0 +1,547 @@
+,Date,Weather,TempF,TempC,Humidity,Pressure,Location
+0,2019-01-01,Partly cloudy,82,28,68,1017,Coimbatore
+1,2019-01-02,Partly cloudy,81,27,62,1017,Coimbatore
+2,2019-01-03,Partly cloudy,82,28,58,1017,Coimbatore
+3,2019-01-04,Partly cloudy,83,28,55,1017,Coimbatore
+4,2019-01-05,Partly cloudy,83,28,60,1016,Coimbatore
+5,2019-01-06,Partly cloudy,83,28,65,1014,Coimbatore
+6,2019-01-07,Partly cloudy,83,29,65,1013,Coimbatore
+7,2019-01-08,Partly cloudy,86,30,58,1014,Coimbatore
+8,2019-01-09,Sunny,85,30,50,1014,Coimbatore
+9,2019-01-10,Partly cloudy,85,30,57,1014,Coimbatore
+10,2019-01-11,Patchy rain possible,86,30,64,1014,Coimbatore
+11,2019-01-12,Patchy rain possible,86,30,65,1014,Coimbatore
+12,2019-01-13,Partly cloudy,86,30,61,1014,Coimbatore
+13,2019-01-14,Light drizzle,86,30,66,1013,Coimbatore
+14,2019-01-15,Partly cloudy,87,30,56,1014,Coimbatore
+15,2019-01-16,Sunny,86,30,49,1014,Coimbatore
+16,2019-01-17,Partly cloudy,85,30,59,1013,Coimbatore
+17,2019-01-18,Patchy rain possible,85,30,65,1013,Coimbatore
+18,2019-01-19,Partly cloudy,87,31,56,1013,Coimbatore
+19,2019-01-20,Sunny,86,30,53,1015,Coimbatore
+20,2019-01-21,Sunny,85,30,44,1015,Coimbatore
+21,2019-01-22,Partly cloudy,86,30,51,1014,Coimbatore
+22,2019-01-23,Patchy rain possible,87,31,59,1014,Coimbatore
+23,2019-01-24,Partly cloudy,88,31,59,1014,Coimbatore
+24,2019-01-25,Patchy rain possible,86,30,67,1014,Coimbatore
+25,2019-01-26,Light rain shower,87,30,71,1014,Coimbatore
+26,2019-01-27,Light rain shower,86,30,68,1014,Coimbatore
+27,2019-01-28,Light rain shower,87,30,69,1014,Coimbatore
+28,2019-01-29,Light rain shower,84,29,70,1015,Coimbatore
+29,2019-01-30,Light rain shower,84,29,67,1015,Coimbatore
+30,2019-01-31,Light rain shower,83,29,67,1014,Coimbatore
+31,2019-02-01,Patchy rain possible,84,29,64,1014,Coimbatore
+32,2019-02-02,Cloudy,86,30,65,1013,Coimbatore
+33,2019-02-03,Partly cloudy,88,31,55,1014,Coimbatore
+34,2019-02-04,Patchy rain possible,89,31,60,1015,Coimbatore
+35,2019-02-05,Patchy rain possible,89,32,64,1016,Coimbatore
+36,2019-02-06,Partly cloudy,89,32,55,1014,Coimbatore
+37,2019-02-07,Partly cloudy,90,32,47,1013,Coimbatore
+38,2019-02-08,Partly cloudy,91,33,56,1013,Coimbatore
+39,2019-02-09,Partly cloudy,92,33,53,1013,Coimbatore
+40,2019-02-10,Light rain shower,90,32,61,1015,Coimbatore
+41,2019-02-11,Light rain shower,87,31,63,1015,Coimbatore
+42,2019-02-12,Patchy rain possible,87,31,61,1016,Coimbatore
+43,2019-02-13,Partly cloudy,89,32,56,1016,Coimbatore
+44,2019-02-14,Patchy rain possible,90,32,54,1014,Coimbatore
+45,2019-02-15,Partly cloudy,90,32,62,1014,Coimbatore
+46,2019-02-16,Patchy rain possible,92,34,63,1014,Coimbatore
+47,2019-02-17,Partly cloudy,94,34,57,1013,Coimbatore
+48,2019-02-18,Partly cloudy,96,35,48,1011,Coimbatore
+49,2019-02-19,Moderate or heavy rain shower,91,33,55,1012,Coimbatore
+50,2019-02-20,Patchy rain possible,91,33,62,1014,Coimbatore
+51,2019-02-21,Partly cloudy,91,33,51,1016,Coimbatore
+52,2019-02-22,Sunny,91,33,41,1014,Coimbatore
+53,2019-02-23,Partly cloudy,92,33,31,1013,Coimbatore
+54,2019-02-24,Partly cloudy,94,34,33,1012,Coimbatore
+55,2019-02-25,Sunny,94,35,42,1011,Coimbatore
+56,2019-02-26,Partly cloudy,99,37,46,1010,Coimbatore
+57,2019-02-27,Partly cloudy,94,35,60,1010,Coimbatore
+58,2019-02-28,Cloudy,97,36,52,1010,Coimbatore
+59,2019-03-01,Patchy rain possible,96,36,49,1010,Coimbatore
+60,2019-03-02,Patchy rain possible,92,34,58,1011,Coimbatore
+61,2019-03-03,Partly cloudy,93,34,54,1011,Coimbatore
+62,2019-03-04,Partly cloudy,95,35,55,1010,Coimbatore
+63,2019-03-05,Partly cloudy,99,37,54,1010,Coimbatore
+64,2019-03-06,Patchy rain possible,98,37,56,1010,Coimbatore
+65,2019-03-07,Partly cloudy,102,39,49,1010,Coimbatore
+66,2019-03-08,Partly cloudy,98,37,53,1011,Coimbatore
+67,2019-03-09,Patchy rain possible,96,36,52,1013,Coimbatore
+68,2019-03-10,Patchy rain possible,95,35,53,1013,Coimbatore
+69,2019-03-11,Patchy rain possible,95,35,47,1014,Coimbatore
+70,2019-03-12,Partly cloudy,95,35,37,1014,Coimbatore
+71,2019-03-13,Partly cloudy,95,35,37,1014,Coimbatore
+72,2019-03-14,Partly cloudy,95,35,35,1014,Coimbatore
+73,2019-03-15,Partly cloudy,95,35,32,1013,Coimbatore
+74,2019-03-16,Partly cloudy,93,34,42,1013,Coimbatore
+75,2019-03-17,Partly cloudy,94,34,41,1013,Coimbatore
+76,2019-03-18,Partly cloudy,95,35,48,1013,Coimbatore
+77,2019-03-19,Partly cloudy,96,36,49,1011,Coimbatore
+78,2019-03-20,Partly cloudy,96,36,49,1011,Coimbatore
+79,2019-03-21,Partly cloudy,97,36,40,1012,Coimbatore
+80,2019-03-22,Partly cloudy,97,36,47,1013,Coimbatore
+81,2019-03-23,Partly cloudy,97,36,46,1012,Coimbatore
+82,2019-03-24,Partly cloudy,99,37,43,1011,Coimbatore
+83,2019-03-25,Partly cloudy,98,37,37,1011,Coimbatore
+84,2019-03-26,Partly cloudy,97,36,40,1013,Coimbatore
+85,2019-03-27,Partly cloudy,98,36,41,1014,Coimbatore
+86,2019-03-28,Partly cloudy,100,38,42,1013,Coimbatore
+87,2019-03-29,Partly cloudy,98,37,44,1011,Coimbatore
+88,2019-03-30,Partly cloudy,99,37,48,1011,Coimbatore
+89,2019-03-31,Partly cloudy,102,39,47,1011,Coimbatore
+90,2019-04-01,Partly cloudy,101,38,48,1011,Coimbatore
+91,2019-04-02,Partly cloudy,100,38,45,1011,Coimbatore
+92,2019-04-03,Partly cloudy,100,38,43,1011,Coimbatore
+93,2019-04-04,Partly cloudy,98,37,41,1013,Coimbatore
+94,2019-04-05,Partly cloudy,99,37,45,1013,Coimbatore
+95,2019-04-06,Partly cloudy,100,38,43,1012,Coimbatore
+96,2019-04-07,Partly cloudy,100,38,44,1010,Coimbatore
+97,2019-04-08,Patchy rain possible,100,38,50,1010,Coimbatore
+98,2019-04-09,Partly cloudy,101,38,49,1010,Coimbatore
+99,2019-04-10,Partly cloudy,100,38,47,1010,Coimbatore
+100,2019-04-11,Patchy rain possible,101,38,46,1010,Coimbatore
+101,2019-04-12,Partly cloudy,101,39,44,1010,Coimbatore
+102,2019-04-13,Partly cloudy,101,38,43,1010,Coimbatore
+103,2019-04-14,Partly cloudy,100,38,41,1010,Coimbatore
+104,2019-04-15,Partly cloudy,104,40,44,1011,Coimbatore
+105,2019-04-16,Patchy rain possible,101,39,49,1010,Coimbatore
+106,2019-04-17,Patchy light rain,99,37,49,1011,Coimbatore
+107,2019-04-18,Patchy rain possible,101,38,48,1010,Coimbatore
+108,2019-04-19,Partly cloudy,101,38,47,1009,Coimbatore
+109,2019-04-20,Light rain shower,99,37,53,1008,Coimbatore
+110,2019-04-21,Partly cloudy,95,35,54,1008,Coimbatore
+111,2019-04-22,Patchy rain possible,99,37,48,1008,Coimbatore
+112,2019-04-23,Moderate or heavy rain shower,96,36,54,1009,Coimbatore
+113,2019-04-24,Light rain shower,96,35,49,1010,Coimbatore
+114,2019-04-25,Partly cloudy,98,37,43,1010,Coimbatore
+115,2019-04-26,Patchy rain possible,100,38,42,1009,Coimbatore
+116,2019-04-27,Partly cloudy,100,38,43,1009,Coimbatore
+117,2019-04-28,Patchy rain possible,101,38,46,1008,Coimbatore
+118,2019-04-29,Partly cloudy,97,36,56,1008,Coimbatore
+119,2019-04-30,Partly cloudy,96,35,55,1008,Coimbatore
+120,2019-05-01,Thundery outbreaks possible,91,33,63,1007,Coimbatore
+121,2019-05-02,Partly cloudy,94,35,59,1007,Coimbatore
+122,2019-05-03,Partly cloudy,94,35,56,1008,Coimbatore
+123,2019-05-04,Patchy rain possible,94,35,55,1010,Coimbatore
+124,2019-05-05,Partly cloudy,97,36,52,1012,Coimbatore
+125,2019-05-06,Patchy rain possible,99,37,54,1010,Coimbatore
+126,2019-05-07,Partly cloudy,91,33,61,1010,Coimbatore
+127,2019-05-08,Partly cloudy,94,34,62,1011,Coimbatore
+128,2019-05-09,Patchy rain possible,96,35,58,1009,Coimbatore
+129,2019-05-10,Partly cloudy,100,38,52,1009,Coimbatore
+130,2019-05-11,Thundery outbreaks possible,97,36,55,1010,Coimbatore
+131,2019-05-12,Partly cloudy,93,34,59,1010,Coimbatore
+132,2019-05-13,Partly cloudy,91,33,62,1009,Coimbatore
+133,2019-05-14,Thundery outbreaks possible,95,35,60,1009,Coimbatore
+134,2019-05-15,Partly cloudy,96,36,60,1010,Coimbatore
+135,2019-05-16,Partly cloudy,97,36,58,1010,Coimbatore
+136,2019-05-17,Partly cloudy,97,36,56,1010,Coimbatore
+137,2019-05-18,Thundery outbreaks possible,100,38,53,1009,Coimbatore
+138,2019-05-19,Partly cloudy,101,39,51,1009,Coimbatore
+139,2019-05-20,Partly cloudy,99,37,51,1010,Coimbatore
+140,2019-05-21,Partly cloudy,100,38,48,1009,Coimbatore
+141,2019-05-22,Partly cloudy,98,36,54,1009,Coimbatore
+142,2019-05-23,Partly cloudy,96,36,57,1009,Coimbatore
+143,2019-05-24,Partly cloudy,97,36,57,1009,Coimbatore
+144,2019-05-25,Partly cloudy,95,35,60,1009,Coimbatore
+145,2019-05-26,Partly cloudy,94,35,59,1008,Coimbatore
+146,2019-05-27,Partly cloudy,97,36,58,1008,Coimbatore
+147,2019-05-28,Partly cloudy,99,37,55,1007,Coimbatore
+148,2019-05-29,Partly cloudy,97,36,61,1007,Coimbatore
+149,2019-05-30,Partly cloudy,95,35,63,1006,Coimbatore
+150,2019-05-31,Patchy rain possible,91,33,66,1007,Coimbatore
+151,2019-06-01,Partly cloudy,92,34,64,1008,Coimbatore
+152,2019-06-02,Patchy light drizzle,91,33,67,1008,Coimbatore
+153,2019-06-03,Partly cloudy,93,34,64,1008,Coimbatore
+154,2019-06-04,Partly cloudy,94,34,62,1008,Coimbatore
+155,2019-06-05,Partly cloudy,94,35,61,1006,Coimbatore
+156,2019-06-06,Partly cloudy,92,33,66,1007,Coimbatore
+157,2019-06-07,Partly cloudy,94,34,62,1007,Coimbatore
+158,2019-06-08,Moderate rain at times,93,34,60,1007,Coimbatore
+159,2019-06-09,Partly cloudy,93,34,57,1007,Coimbatore
+160,2019-06-10,Light drizzle,87,31,65,1008,Coimbatore
+161,2019-06-11,Cloudy,88,31,67,1008,Coimbatore
+162,2019-06-12,Patchy rain possible,88,31,68,1009,Coimbatore
+163,2019-06-13,Cloudy,86,30,70,1009,Coimbatore
+164,2019-06-14,Partly cloudy,90,32,66,1009,Coimbatore
+165,2019-06-15,Patchy rain possible,91,33,65,1009,Coimbatore
+166,2019-06-16,Patchy rain possible,92,33,64,1009,Coimbatore
+167,2019-06-17,Patchy rain possible,91,33,67,1010,Coimbatore
+168,2019-06-18,Partly cloudy,92,33,66,1009,Coimbatore
+169,2019-06-19,Patchy rain possible,90,32,67,1008,Coimbatore
+170,2019-06-20,Patchy rain possible,89,32,69,1008,Coimbatore
+171,2019-06-21,Light rain shower,80,27,79,1008,Coimbatore
+172,2019-06-22,Patchy rain possible,85,29,75,1007,Coimbatore
+173,2019-06-23,Patchy rain possible,88,31,73,1006,Coimbatore
+174,2019-06-24,Patchy rain possible,90,32,69,1007,Coimbatore
+175,2019-06-25,Patchy rain possible,91,33,67,1008,Coimbatore
+176,2019-06-26,Patchy rain possible,91,33,66,1009,Coimbatore
+177,2019-06-27,Patchy rain possible,91,33,66,1008,Coimbatore
+178,2019-06-28,Partly cloudy,91,33,65,1009,Coimbatore
+179,2019-06-29,Partly cloudy,90,32,66,1008,Coimbatore
+180,2019-06-30,Partly cloudy,89,32,69,1008,Coimbatore
+181,2019-07-01,Cloudy,91,33,67,1007,Coimbatore
+182,2019-07-02,Partly cloudy,89,32,67,1008,Coimbatore
+183,2019-07-03,Partly cloudy,89,32,70,1008,Coimbatore
+184,2019-07-04,Patchy rain possible,88,31,69,1009,Coimbatore
+185,2019-07-05,Partly cloudy,88,31,68,1008,Coimbatore
+186,2019-07-06,Partly cloudy,87,30,67,1008,Coimbatore
+187,2019-07-07,Partly cloudy,89,32,65,1009,Coimbatore
+188,2019-07-08,Patchy rain possible,91,33,63,1009,Coimbatore
+189,2019-07-09,Patchy rain possible,91,33,62,1009,Coimbatore
+190,2019-07-10,Light rain shower,91,33,60,1009,Coimbatore
+191,2019-07-11,Patchy rain possible,92,33,63,1010,Coimbatore
+192,2019-07-12,Partly cloudy,92,34,64,1010,Coimbatore
+193,2019-07-13,Patchy rain possible,92,34,67,1011,Coimbatore
+194,2019-07-14,Patchy rain possible,91,33,69,1010,Coimbatore
+195,2019-07-15,Moderate or heavy rain shower,90,32,75,1009,Coimbatore
+196,2019-07-16,Light rain shower,88,31,74,1009,Coimbatore
+197,2019-07-17,Torrential rain shower,88,31,75,1008,Coimbatore
+198,2019-07-18,Moderate or heavy rain shower,87,30,78,1006,Coimbatore
+199,2019-07-19,Light rain shower,79,26,85,1006,Coimbatore
+200,2019-07-20,Patchy rain possible,85,29,75,1006,Coimbatore
+201,2019-07-21,Light rain shower,84,29,77,1006,Coimbatore
+202,2019-07-22,Heavy rain,74,24,89,1007,Coimbatore
+203,2019-07-23,Light rain shower,83,28,80,1007,Coimbatore
+204,2019-07-24,Light rain shower,86,30,75,1008,Coimbatore
+205,2019-07-25,Patchy rain possible,86,30,77,1009,Coimbatore
+206,2019-07-26,Light rain shower,83,28,77,1009,Coimbatore
+207,2019-07-27,Cloudy,86,30,73,1009,Coimbatore
+208,2019-07-28,Patchy rain possible,87,30,70,1009,Coimbatore
+209,2019-07-29,Patchy rain possible,86,30,72,1009,Coimbatore
+210,2019-07-30,Patchy rain possible,88,31,69,1010,Coimbatore
+211,2019-07-31,Patchy rain possible,89,32,66,1011,Coimbatore
+212,2019-08-01,Partly cloudy,88,31,69,1011,Coimbatore
+213,2019-08-02,Partly cloudy,86,30,67,1010,Coimbatore
+214,2019-08-03,Partly cloudy,86,30,66,1010,Coimbatore
+215,2019-08-04,Partly cloudy,87,31,66,1010,Coimbatore
+216,2019-08-05,Partly cloudy,86,30,67,1009,Coimbatore
+217,2019-08-06,Patchy rain possible,80,27,75,1009,Coimbatore
+218,2019-08-07,Patchy light drizzle,79,26,80,1008,Coimbatore
+219,2019-08-08,Light rain shower,78,26,82,1008,Coimbatore
+220,2019-08-09,Patchy rain possible,78,26,81,1009,Coimbatore
+221,2019-08-10,Patchy rain possible,83,29,77,1009,Coimbatore
+222,2019-08-11,Light rain shower,87,31,69,1009,Coimbatore
+223,2019-08-12,Patchy rain possible,87,31,69,1009,Coimbatore
+224,2019-08-13,Patchy rain possible,81,27,77,1009,Coimbatore
+225,2019-08-14,Heavy rain,77,25,87,1010,Coimbatore
+226,2019-08-15,Patchy rain possible,87,30,74,1011,Coimbatore
+227,2019-08-16,Moderate or heavy rain shower,86,30,76,1010,Coimbatore
+228,2019-08-17,Light rain shower,80,27,81,1010,Coimbatore
+229,2019-08-18,Light rain shower,83,28,80,1010,Coimbatore
+230,2019-08-19,Light rain shower,84,29,78,1010,Coimbatore
+231,2019-08-20,Torrential rain shower,86,30,77,1010,Coimbatore
+232,2019-08-21,Light rain,82,28,82,1010,Coimbatore
+233,2019-08-22,Patchy rain possible,79,26,83,1010,Coimbatore
+234,2019-08-23,Light rain shower,82,28,79,1010,Coimbatore
+235,2019-08-24,Overcast,83,28,76,1010,Coimbatore
+236,2019-08-25,Light rain shower,82,28,77,1010,Coimbatore
+237,2019-08-26,Patchy rain possible,82,28,77,1010,Coimbatore
+238,2019-08-27,Patchy light drizzle,82,28,77,1010,Coimbatore
+239,2019-08-28,Patchy rain possible,83,28,74,1010,Coimbatore
+240,2019-08-29,Patchy rain possible,87,30,74,1009,Coimbatore
+241,2019-08-30,Patchy rain possible,85,29,74,1008,Coimbatore
+242,2019-08-31,Partly cloudy,86,30,72,1007,Coimbatore
+243,2019-09-01,Partly cloudy,84,29,71,1008,Coimbatore
+244,2019-09-02,Light drizzle,82,28,75,1010,Coimbatore
+245,2019-09-03,Patchy rain possible,85,30,73,1009,Coimbatore
+246,2019-09-04,Partly cloudy,84,29,73,1009,Coimbatore
+247,2019-09-05,Patchy rain possible,87,31,71,1009,Coimbatore
+248,2019-09-06,Partly cloudy,87,31,70,1009,Coimbatore
+249,2019-09-07,Partly cloudy,86,30,70,1009,Coimbatore
+250,2019-09-08,Partly cloudy,88,31,65,1010,Coimbatore
+251,2019-09-09,Partly cloudy,88,31,67,1010,Coimbatore
+252,2019-09-10,Patchy rain possible,89,32,68,1009,Coimbatore
+253,2019-09-11,Light rain shower,89,32,72,1010,Coimbatore
+254,2019-09-12,Light rain shower,87,31,72,1012,Coimbatore
+255,2019-09-13,Patchy rain possible,89,32,70,1012,Coimbatore
+256,2019-09-14,Patchy rain possible,89,31,73,1011,Coimbatore
+257,2019-09-15,Light rain shower,89,32,74,1011,Coimbatore
+258,2019-09-16,Patchy rain possible,88,31,73,1010,Coimbatore
+259,2019-09-17,Patchy rain possible,88,31,73,1009,Coimbatore
+260,2019-09-18,Patchy rain possible,86,30,77,1009,Coimbatore
+261,2019-09-19,Patchy rain possible,88,31,72,1009,Coimbatore
+262,2019-09-20,Patchy rain possible,88,31,69,1009,Coimbatore
+263,2019-09-21,Moderate or heavy rain shower,90,32,69,1009,Coimbatore
+264,2019-09-22,Light rain shower,82,28,78,1009,Coimbatore
+265,2019-09-23,Moderate or heavy rain shower,86,30,77,1009,Coimbatore
+266,2019-09-24,Moderate or heavy rain shower,85,29,76,1008,Coimbatore
+267,2019-09-25,Light rain shower,88,31,74,1009,Coimbatore
+268,2019-09-26,Light rain shower,83,29,78,1012,Coimbatore
+269,2019-09-27,Cloudy,86,30,73,1013,Coimbatore
+270,2019-09-28,Moderate or heavy rain shower,88,31,72,1013,Coimbatore
+271,2019-09-29,Patchy rain possible,86,30,69,1013,Coimbatore
+272,2019-09-30,Torrential rain shower,86,30,72,1013,Coimbatore
+273,2019-10-01,Patchy rain possible,89,31,73,1013,Coimbatore
+274,2019-10-02,Patchy rain possible,89,32,71,1012,Coimbatore
+275,2019-10-03,Moderate rain,84,29,80,1012,Coimbatore
+276,2019-10-04,Patchy rain possible,88,31,72,1011,Coimbatore
+277,2019-10-05,Patchy rain possible,90,32,68,1010,Coimbatore
+278,2019-10-06,Light rain shower,87,30,72,1010,Coimbatore
+279,2019-10-07,Patchy rain possible,89,32,71,1011,Coimbatore
+280,2019-10-08,Patchy rain possible,90,32,68,1010,Coimbatore
+281,2019-10-09,Patchy rain possible,89,32,72,1010,Coimbatore
+282,2019-10-10,Patchy rain possible,89,31,74,1010,Coimbatore
+283,2019-10-11,Moderate or heavy rain shower,89,31,71,1010,Coimbatore
+284,2019-10-12,Moderate or heavy rain shower,87,31,74,1010,Coimbatore
+285,2019-10-13,Moderate or heavy rain shower,86,30,79,1010,Coimbatore
+286,2019-10-14,Light rain shower,87,31,76,1011,Coimbatore
+287,2019-10-15,Torrential rain shower,85,29,78,1010,Coimbatore
+288,2019-10-16,Torrential rain shower,85,30,79,1010,Coimbatore
+289,2019-10-17,Moderate or heavy rain shower,80,26,85,1011,Coimbatore
+290,2019-10-18,Torrential rain shower,83,29,82,1010,Coimbatore
+291,2019-10-19,Torrential rain shower,84,29,82,1011,Coimbatore
+292,2019-10-20,Moderate or heavy rain shower,85,29,80,1011,Coimbatore
+293,2019-10-21,Moderate or heavy rain shower,81,27,87,1011,Coimbatore
+294,2019-10-22,Light rain,75,24,92,1010,Coimbatore
+295,2019-10-23,Moderate or heavy rain shower,81,27,86,1009,Coimbatore
+296,2019-10-24,Moderate rain,74,24,92,1010,Coimbatore
+297,2019-10-25,Patchy rain possible,79,26,80,1010,Coimbatore
+298,2019-10-26,Light rain shower,85,30,73,1011,Coimbatore
+299,2019-10-27,Light rain shower,84,29,77,1011,Coimbatore
+300,2019-10-28,Light rain shower,83,29,80,1011,Coimbatore
+301,2019-10-29,Moderate or heavy rain shower,82,28,84,1011,Coimbatore
+302,2019-10-30,Moderate or heavy rain shower,78,26,87,1011,Coimbatore
+303,2019-10-31,Torrential rain shower,79,26,88,1011,Coimbatore
+304,2019-11-01,Patchy rain possible,85,30,70,1011,Coimbatore
+305,2019-11-02,Moderate or heavy rain shower,83,29,79,1012,Coimbatore
+306,2019-11-03,Light rain shower,83,29,81,1013,Coimbatore
+307,2019-11-04,Patchy rain possible,83,29,79,1013,Coimbatore
+308,2019-11-05,Light rain shower,85,29,77,1012,Coimbatore
+309,2019-11-06,Light rain shower,85,30,79,1010,Coimbatore
+310,2019-11-07,Patchy rain possible,84,29,81,1010,Coimbatore
+311,2019-11-08,Torrential rain shower,84,29,84,1010,Coimbatore
+312,2019-11-09,Torrential rain shower,84,29,83,1011,Coimbatore
+313,2019-11-10,Torrential rain shower,83,29,82,1011,Coimbatore
+314,2019-11-11,Torrential rain shower,83,28,83,1011,Coimbatore
+315,2019-11-12,Light rain shower,80,27,83,1011,Coimbatore
+316,2019-11-13,Patchy rain possible,81,27,82,1012,Coimbatore
+317,2019-11-14,Patchy rain possible,81,27,81,1012,Coimbatore
+318,2019-11-15,Light rain shower,82,28,84,1011,Coimbatore
+319,2019-11-16,Light rain shower,82,28,85,1012,Coimbatore
+320,2019-11-17,Light rain shower,83,28,85,1012,Coimbatore
+321,2019-11-18,Patchy rain possible,83,28,80,1012,Coimbatore
+322,2019-11-19,Light rain shower,84,29,83,1011,Coimbatore
+323,2019-11-20,Moderate or heavy rain shower,83,28,84,1011,Coimbatore
+324,2019-11-21,Moderate or heavy rain shower,81,27,86,1011,Coimbatore
+325,2019-11-22,Light rain shower,80,27,87,1013,Coimbatore
+326,2019-11-23,Light rain shower,80,27,86,1012,Coimbatore
+327,2019-11-24,Patchy rain possible,79,26,85,1012,Coimbatore
+328,2019-11-25,Light rain shower,80,27,82,1012,Coimbatore
+329,2019-11-26,Partly cloudy,79,26,82,1011,Coimbatore
+330,2019-11-27,Light rain shower,80,27,82,1011,Coimbatore
+331,2019-11-28,Moderate or heavy rain shower,82,28,84,1011,Coimbatore
+332,2019-11-29,Moderate or heavy rain shower,81,27,85,1011,Coimbatore
+333,2019-11-30,Moderate or heavy rain shower,82,28,87,1011,Coimbatore
+334,2019-12-01,Moderate or heavy rain shower,80,27,89,1011,Coimbatore
+335,2019-12-02,Torrential rain shower,77,25,91,1012,Coimbatore
+336,2019-12-03,Light rain shower,78,25,88,1011,Coimbatore
+337,2019-12-04,Light rain shower,79,26,86,1013,Coimbatore
+338,2019-12-05,Partly cloudy,78,25,83,1014,Coimbatore
+339,2019-12-06,Partly cloudy,78,25,81,1014,Coimbatore
+340,2019-12-07,Light rain shower,80,26,80,1013,Coimbatore
+341,2019-12-08,Light rain shower,79,26,84,1013,Coimbatore
+342,2019-12-09,Patchy rain possible,78,26,84,1014,Coimbatore
+343,2019-12-10,Partly cloudy,79,26,79,1012,Coimbatore
+344,2019-12-11,Cloudy,78,26,78,1012,Coimbatore
+345,2019-12-12,Partly cloudy,80,27,77,1012,Coimbatore
+346,2019-12-13,Patchy rain possible,80,27,82,1012,Coimbatore
+347,2019-12-14,Moderate or heavy rain shower,79,26,85,1013,Coimbatore
+348,2019-12-15,Partly cloudy,80,27,80,1013,Coimbatore
+349,2019-12-16,Partly cloudy,81,27,76,1013,Coimbatore
+350,2019-12-17,Partly cloudy,78,26,78,1013,Coimbatore
+351,2019-12-18,Patchy rain possible,78,26,82,1014,Coimbatore
+352,2019-12-19,Patchy rain possible,79,26,82,1013,Coimbatore
+353,2019-12-20,Patchy rain possible,79,26,83,1012,Coimbatore
+354,2019-12-21,Patchy rain possible,80,26,81,1013,Coimbatore
+355,2019-12-22,Patchy rain possible,80,27,80,1013,Coimbatore
+356,2019-12-23,Partly cloudy,80,27,78,1013,Coimbatore
+357,2019-12-24,Light rain shower,78,26,83,1013,Coimbatore
+358,2019-12-25,Light rain shower,77,25,89,1013,Coimbatore
+359,2019-12-26,Patchy rain possible,79,26,85,1013,Coimbatore
+360,2019-12-27,Overcast,79,26,80,1012,Coimbatore
+361,2019-12-28,Cloudy,78,25,79,1012,Coimbatore
+362,2019-12-29,Partly cloudy,81,27,75,1012,Coimbatore
+363,2019-12-30,Cloudy,81,27,77,1012,Coimbatore
+364,2019-12-31,Light rain shower,81,27,79,1013,Coimbatore
+365,2020-01-01,Light rain shower,82,28,81,1014,Coimbatore
+366,2020-01-02,Light rain shower,83,28,79,1015,Coimbatore
+367,2020-01-03,Light rain shower,85,30,77,1014,Coimbatore
+368,2020-01-04,Patchy rain possible,86,30,76,1012,Coimbatore
+369,2020-01-05,Light rain shower,85,30,77,1012,Coimbatore
+370,2020-01-06,Patchy rain possible,83,28,78,1013,Coimbatore
+371,2020-01-07,Light rain shower,84,29,76,1013,Coimbatore
+372,2020-01-08,Partly cloudy,84,29,72,1013,Coimbatore
+373,2020-01-09,Cloudy,83,28,77,1013,Coimbatore
+374,2020-01-10,Patchy rain possible,82,28,72,1013,Coimbatore
+375,2020-01-11,Sunny,82,28,67,1014,Coimbatore
+376,2020-01-12,Sunny,82,28,65,1013,Coimbatore
+377,2020-01-13,Partly cloudy,85,29,71,1012,Coimbatore
+378,2020-01-14,Partly cloudy,84,29,69,1012,Coimbatore
+379,2020-01-15,Partly cloudy,83,28,60,1012,Coimbatore
+380,2020-01-16,Partly cloudy,83,28,64,1013,Coimbatore
+381,2020-01-17,Partly cloudy,86,30,62,1013,Coimbatore
+382,2020-01-18,Light rain shower,86,30,76,1012,Coimbatore
+383,2020-01-19,Light rain shower,85,30,70,1013,Coimbatore
+384,2020-01-20,Partly cloudy,87,30,66,1014,Coimbatore
+385,2020-01-21,Partly cloudy,87,31,63,1014,Coimbatore
+386,2020-01-22,Partly cloudy,87,31,69,1015,Coimbatore
+387,2020-01-23,Light rain shower,84,29,69,1014,Coimbatore
+388,2020-01-24,Partly cloudy,87,31,62,1014,Coimbatore
+389,2020-01-25,Sunny,88,31,50,1014,Coimbatore
+390,2020-01-26,Sunny,88,31,49,1013,Coimbatore
+391,2020-01-27,Partly cloudy,90,32,53,1013,Coimbatore
+392,2020-01-28,Partly cloudy,91,33,56,1013,Coimbatore
+393,2020-01-29,Partly cloudy,90,32,58,1014,Coimbatore
+394,2020-01-30,Partly cloudy,90,32,50,1013,Coimbatore
+395,2020-01-31,Partly cloudy,90,32,54,1011,Coimbatore
+396,2020-02-01,Partly cloudy,89,31,61,1012,Coimbatore
+397,2020-02-02,Patchy rain possible,88,31,58,1014,Coimbatore
+398,2020-02-03,Patchy rain possible,87,30,62,1014,Coimbatore
+399,2020-02-04,Patchy rain possible,88,31,62,1013,Coimbatore
+400,2020-02-05,Light rain shower,87,31,67,1013,Coimbatore
+401,2020-02-06,Partly cloudy,89,31,59,1013,Coimbatore
+402,2020-02-07,Partly cloudy,88,31,59,1014,Coimbatore
+403,2020-02-08,Partly cloudy,92,33,61,1014,Coimbatore
+404,2020-02-09,Patchy rain possible,87,31,65,1014,Coimbatore
+405,2020-02-10,Light rain shower,88,31,64,1013,Coimbatore
+406,2020-02-11,Partly cloudy,87,31,62,1014,Coimbatore
+407,2020-02-12,Partly cloudy,85,29,67,1015,Coimbatore
+408,2020-02-13,Light rain shower,90,32,62,1014,Coimbatore
+409,2020-02-14,Partly cloudy,91,33,55,1013,Coimbatore
+410,2020-02-15,Partly cloudy,93,34,54,1013,Coimbatore
+411,2020-02-16,Partly cloudy,91,33,47,1013,Coimbatore
+412,2020-02-17,Sunny,90,32,51,1014,Coimbatore
+413,2020-02-18,Sunny,90,32,48,1014,Coimbatore
+414,2020-02-19,Partly cloudy,90,32,49,1013,Coimbatore
+415,2020-02-20,Sunny,91,33,55,1013,Coimbatore
+416,2020-02-21,Partly cloudy,91,33,61,1014,Coimbatore
+417,2020-02-22,Cloudy,90,32,66,1015,Coimbatore
+418,2020-02-23,Partly cloudy,91,33,62,1014,Coimbatore
+419,2020-02-24,Patchy rain possible,93,34,59,1013,Coimbatore
+420,2020-02-25,Partly cloudy,93,34,53,1011,Coimbatore
+421,2020-02-26,Partly cloudy,92,34,55,1011,Coimbatore
+422,2020-02-27,Overcast,92,33,59,1012,Coimbatore
+423,2020-02-28,Patchy rain possible,92,34,58,1011,Coimbatore
+424,2020-03-01,Cloudy,91,33,56,1011,Coimbatore
+425,2020-03-02,Patchy rain possible,94,34,58,1012,Coimbatore
+426,2020-03-03,Cloudy,96,35,57,1012,Coimbatore
+427,2020-03-04,Moderate or heavy rain shower,91,33,65,1011,Coimbatore
+428,2020-03-05,Moderate or heavy rain shower,91,33,65,1011,Coimbatore
+429,2020-03-06,Patchy rain possible,91,33,63,1011,Coimbatore
+430,2020-03-07,Light rain shower,90,32,62,1012,Coimbatore
+431,2020-03-08,Light rain shower,92,33,66,1012,Coimbatore
+432,2020-03-09,Light rain shower,92,34,67,1011,Coimbatore
+433,2020-03-10,Partly cloudy,93,34,54,1011,Coimbatore
+434,2020-03-11,Partly cloudy,94,34,53,1011,Coimbatore
+435,2020-03-12,Partly cloudy,93,34,56,1012,Coimbatore
+436,2020-03-13,Partly cloudy,94,35,46,1012,Coimbatore
+437,2020-03-14,Partly cloudy,95,35,49,1011,Coimbatore
+438,2020-03-15,Partly cloudy,93,34,55,1011,Coimbatore
+439,2020-03-16,Partly cloudy,94,34,56,1012,Coimbatore
+440,2020-03-17,Partly cloudy,96,35,50,1013,Coimbatore
+441,2020-03-18,Partly cloudy,96,36,46,1013,Coimbatore
+442,2020-03-19,Partly cloudy,98,36,48,1012,Coimbatore
+443,2020-03-20,Patchy rain possible,99,37,55,1012,Coimbatore
+444,2020-03-21,Moderate or heavy rain shower,96,36,58,1012,Coimbatore
+445,2020-03-22,Partly cloudy,97,36,53,1012,Coimbatore
+446,2020-03-23,Patchy rain possible,93,34,57,1011,Coimbatore
+447,2020-03-24,Partly cloudy,96,36,52,1010,Coimbatore
+448,2020-03-25,Partly cloudy,96,36,49,1010,Coimbatore
+449,2020-03-26,Partly cloudy,95,35,49,1010,Coimbatore
+450,2020-03-27,Partly cloudy,94,35,48,1012,Coimbatore
+451,2020-03-28,Partly cloudy,96,36,49,1011,Coimbatore
+452,2020-03-29,Sunny,98,37,48,1010,Coimbatore
+453,2020-03-30,Partly cloudy,99,37,47,1011,Coimbatore
+454,2020-03-31,Sunny,98,37,42,1011,Coimbatore
+455,2020-04-01,Partly cloudy,100,38,40,1011,Coimbatore
+456,2020-04-02,Partly cloudy,101,38,47,1010,Coimbatore
+457,2020-04-03,Partly cloudy,100,38,50,1011,Coimbatore
+458,2020-04-04,Sunny,99,37,51,1011,Coimbatore
+459,2020-04-05,Partly cloudy,99,37,56,1012,Coimbatore
+460,2020-04-06,Partly cloudy,100,38,57,1012,Coimbatore
+461,2020-04-07,Partly cloudy,96,36,59,1011,Coimbatore
+462,2020-04-08,Light rain shower,97,36,60,1012,Coimbatore
+463,2020-04-09,Patchy rain possible,97,36,57,1011,Coimbatore
+464,2020-04-10,Patchy rain possible,91,33,55,1012,Coimbatore
+465,2020-04-11,Partly cloudy,95,35,50,1013,Coimbatore
+466,2020-04-12,Partly cloudy,96,36,43,1012,Coimbatore
+467,2020-04-13,Partly cloudy,98,37,40,1011,Coimbatore
+468,2020-04-14,Sunny,99,37,38,1011,Coimbatore
+469,2020-04-15,Partly cloudy,98,37,48,1012,Coimbatore
+470,2020-04-16,Partly cloudy,99,37,53,1011,Coimbatore
+471,2020-04-17,Patchy rain possible,100,38,51,1010,Coimbatore
+472,2020-04-18,Patchy rain possible,101,38,54,1011,Coimbatore
+473,2020-04-19,Partly cloudy,100,38,53,1010,Coimbatore
+474,2020-04-20,Patchy rain possible,100,38,51,1010,Coimbatore
+475,2020-04-21,Partly cloudy,100,38,53,1010,Coimbatore
+476,2020-04-22,Partly cloudy,101,38,56,1010,Coimbatore
+477,2020-04-23,Partly cloudy,101,39,55,1010,Coimbatore
+478,2020-04-24,Patchy rain possible,96,36,59,1009,Coimbatore
+479,2020-04-25,Patchy rain possible,100,38,61,1009,Coimbatore
+480,2020-04-26,Patchy rain possible,97,36,59,1010,Coimbatore
+481,2020-04-27,Moderate or heavy rain shower,100,38,64,1011,Coimbatore
+482,2020-04-28,Partly cloudy,99,37,58,1010,Coimbatore
+483,2020-04-29,Patchy rain possible,90,32,64,1011,Coimbatore
+484,2020-04-30,Partly cloudy,94,35,58,1011,Coimbatore
+485,2020-05-01,Partly cloudy,98,37,59,1010,Coimbatore
+486,2020-05-02,Patchy rain possible,98,36,57,1009,Coimbatore
+487,2020-05-03,Partly cloudy,98,37,54,1008,Coimbatore
+488,2020-05-04,Partly cloudy,101,38,53,1009,Coimbatore
+489,2020-05-05,Partly cloudy,101,38,50,1009,Coimbatore
+490,2020-05-06,Partly cloudy,100,38,54,1009,Coimbatore
+491,2020-05-07,Partly cloudy,101,39,60,1009,Coimbatore
+492,2020-05-08,Partly cloudy,100,38,59,1009,Coimbatore
+493,2020-05-09,Partly cloudy,102,39,56,1009,Coimbatore
+494,2020-05-10,Partly cloudy,101,38,53,1009,Coimbatore
+495,2020-05-11,Patchy rain possible,100,38,55,1009,Coimbatore
+496,2020-05-12,Patchy rain possible,99,37,54,1009,Coimbatore
+497,2020-05-13,Partly cloudy,99,37,55,1008,Coimbatore
+498,2020-05-14,Patchy rain possible,97,36,61,1007,Coimbatore
+499,2020-05-15,Patchy rain possible,101,39,62,1007,Coimbatore
+500,2020-05-16,Patchy rain possible,95,35,67,1007,Coimbatore
+501,2020-05-17,Patchy rain possible,98,37,66,1007,Coimbatore
+502,2020-05-18,Patchy rain possible,86,30,77,1006,Coimbatore
+503,2020-05-19,Partly cloudy,92,34,72,1005,Coimbatore
+504,2020-05-20,Patchy rain possible,94,35,68,1006,Coimbatore
+505,2020-05-21,Patchy rain possible,95,35,64,1007,Coimbatore
+506,2020-05-22,Partly cloudy,96,36,61,1008,Coimbatore
+507,2020-05-23,Partly cloudy,92,33,67,1008,Coimbatore
+508,2020-05-24,Torrential rain shower,98,37,67,1008,Coimbatore
+509,2020-05-25,Moderate or heavy rain shower,96,36,67,1009,Coimbatore
+510,2020-05-26,Moderate or heavy rain shower,97,36,65,1009,Coimbatore
+511,2020-05-27,Torrential rain shower,96,36,69,1009,Coimbatore
+512,2020-05-28,Patchy light rain with thunder,96,36,70,1008,Coimbatore
+513,2020-05-29,Patchy rain possible,91,33,70,1008,Coimbatore
+514,2020-05-30,Patchy rain possible,91,33,70,1009,Coimbatore
+515,2020-05-31,Patchy rain possible,96,36,64,1009,Coimbatore
+516,2020-06-01,Patchy rain possible,92,33,65,1010,Coimbatore
+517,2020-06-02,Patchy light rain,86,30,75,1011,Coimbatore
+518,2020-06-03,Partly cloudy,89,32,69,1010,Coimbatore
+519,2020-06-04,Partly cloudy,91,33,67,1010,Coimbatore
+520,2020-06-05,Patchy rain possible,91,33,67,1010,Coimbatore
+521,2020-06-06,Moderate or heavy rain shower,85,30,74,1009,Coimbatore
+522,2020-06-07,Patchy light drizzle,80,27,79,1010,Coimbatore
+523,2020-06-08,Patchy rain possible,91,33,66,1008,Coimbatore
+524,2020-06-09,Patchy rain possible,93,34,70,1008,Coimbatore
+525,2020-06-10,Patchy rain possible,91,33,70,1007,Coimbatore
+526,2020-06-11,Patchy rain possible,89,32,68,1006,Coimbatore
+527,2020-06-12,Partly cloudy,85,30,65,1006,Coimbatore
+528,2020-06-13,Partly cloudy,92,33,66,1006,Coimbatore
+529,2020-06-14,Partly cloudy,89,32,71,1008,Coimbatore
+530,2020-06-15,Partly cloudy,90,32,70,1008,Coimbatore
+531,2020-06-16,Partly cloudy,89,32,66,1007,Coimbatore
+532,2020-06-17,Partly cloudy,87,30,69,1007,Coimbatore
+533,2020-06-18,Partly cloudy,91,33,65,1009,Coimbatore
+534,2020-06-19,Partly cloudy,92,33,65,1009,Coimbatore
+535,2020-06-20,Partly cloudy,92,33,65,1009,Coimbatore
+536,2020-06-21,Patchy rain possible,91,33,68,1008,Coimbatore
+537,2020-06-22,Patchy rain possible,89,32,68,1007,Coimbatore
+538,2020-06-23,Partly cloudy,86,30,67,1008,Coimbatore
+539,2020-06-24,Patchy rain possible,88,31,68,1008,Coimbatore
+540,2020-06-25,Patchy rain possible,90,32,69,1006,Coimbatore
+541,2020-06-26,Patchy rain possible,90,32,69,1006,Coimbatore
+542,2020-06-27,Patchy rain possible,91,33,69,1007,Coimbatore
+543,2020-06-28,Patchy rain possible,90,32,73,1007,Coimbatore
+544,2020-06-29,Patchy rain possible,91,33,72,1006,Coimbatore
+545,2020-06-30,Patchy rain possible,89,32,73,1006,Coimbatore

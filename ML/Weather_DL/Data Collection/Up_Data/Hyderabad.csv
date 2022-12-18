@@ -1,0 +1,547 @@
+,Date,Weather,TempF,TempC,Humidity,Pressure,Location
+0,2019-01-01,Sunny,84,29,22,1019,Hyderabad
+1,2019-01-02,Sunny,86,30,28,1018,Hyderabad
+2,2019-01-03,Sunny,89,32,32,1019,Hyderabad
+3,2019-01-04,Sunny,85,30,32,1018,Hyderabad
+4,2019-01-05,Sunny,85,29,45,1017,Hyderabad
+5,2019-01-06,Partly cloudy,83,28,52,1015,Hyderabad
+6,2019-01-07,Partly cloudy,84,29,49,1015,Hyderabad
+7,2019-01-08,Sunny,84,29,38,1015,Hyderabad
+8,2019-01-09,Sunny,89,32,24,1015,Hyderabad
+9,2019-01-10,Sunny,87,31,25,1015,Hyderabad
+10,2019-01-11,Partly cloudy,83,29,54,1015,Hyderabad
+11,2019-01-12,Partly cloudy,84,29,57,1015,Hyderabad
+12,2019-01-13,Partly cloudy,83,29,54,1015,Hyderabad
+13,2019-01-14,Partly cloudy,84,29,51,1014,Hyderabad
+14,2019-01-15,Partly cloudy,84,29,43,1015,Hyderabad
+15,2019-01-16,Sunny,87,31,33,1015,Hyderabad
+16,2019-01-17,Partly cloudy,89,32,41,1014,Hyderabad
+17,2019-01-18,Partly cloudy,87,31,44,1014,Hyderabad
+18,2019-01-19,Partly cloudy,85,29,42,1015,Hyderabad
+19,2019-01-20,Sunny,87,31,36,1016,Hyderabad
+20,2019-01-21,Sunny,86,30,40,1014,Hyderabad
+21,2019-01-22,Partly cloudy,87,31,38,1014,Hyderabad
+22,2019-01-23,Partly cloudy,87,31,51,1014,Hyderabad
+23,2019-01-24,Partly cloudy,86,30,52,1014,Hyderabad
+24,2019-01-25,Light drizzle,81,27,60,1013,Hyderabad
+25,2019-01-26,Moderate or heavy rain shower,83,28,65,1014,Hyderabad
+26,2019-01-27,Moderate or heavy rain shower,77,25,73,1015,Hyderabad
+27,2019-01-28,Light rain shower,75,24,68,1017,Hyderabad
+28,2019-01-29,Partly cloudy,78,26,45,1017,Hyderabad
+29,2019-01-30,Sunny,84,29,24,1017,Hyderabad
+30,2019-01-31,Partly cloudy,80,27,49,1016,Hyderabad
+31,2019-02-01,Partly cloudy,83,28,61,1015,Hyderabad
+32,2019-02-02,Partly cloudy,83,29,51,1014,Hyderabad
+33,2019-02-03,Partly cloudy,83,28,52,1015,Hyderabad
+34,2019-02-04,Partly cloudy,84,29,54,1017,Hyderabad
+35,2019-02-05,Partly cloudy,86,30,44,1016,Hyderabad
+36,2019-02-06,Partly cloudy,87,31,41,1013,Hyderabad
+37,2019-02-07,Cloudy,88,31,43,1012,Hyderabad
+38,2019-02-08,Light rain shower,83,28,53,1013,Hyderabad
+39,2019-02-09,Partly cloudy,88,31,41,1014,Hyderabad
+40,2019-02-10,Partly cloudy,89,32,28,1016,Hyderabad
+41,2019-02-11,Cloudy,84,29,60,1016,Hyderabad
+42,2019-02-12,Partly cloudy,86,30,58,1017,Hyderabad
+43,2019-02-13,Partly cloudy,88,31,48,1017,Hyderabad
+44,2019-02-14,Partly cloudy,91,33,43,1015,Hyderabad
+45,2019-02-15,Partly cloudy,91,33,42,1013,Hyderabad
+46,2019-02-16,Partly cloudy,93,34,38,1013,Hyderabad
+47,2019-02-17,Partly cloudy,92,34,48,1012,Hyderabad
+48,2019-02-18,Partly cloudy,95,35,44,1011,Hyderabad
+49,2019-02-19,Partly cloudy,94,34,48,1011,Hyderabad
+50,2019-02-20,Partly cloudy,92,33,50,1014,Hyderabad
+51,2019-02-21,Partly cloudy,93,34,38,1016,Hyderabad
+52,2019-02-22,Partly cloudy,96,35,32,1014,Hyderabad
+53,2019-02-23,Partly cloudy,98,37,27,1012,Hyderabad
+54,2019-02-24,Partly cloudy,98,37,22,1010,Hyderabad
+55,2019-02-25,Partly cloudy,96,36,23,1009,Hyderabad
+56,2019-02-26,Partly cloudy,97,36,26,1008,Hyderabad
+57,2019-02-27,Patchy rain possible,94,35,52,1008,Hyderabad
+58,2019-02-28,Partly cloudy,92,33,35,1009,Hyderabad
+59,2019-03-01,Patchy rain possible,91,33,43,1010,Hyderabad
+60,2019-03-02,Partly cloudy,90,32,59,1011,Hyderabad
+61,2019-03-03,Cloudy,91,33,52,1010,Hyderabad
+62,2019-03-04,Partly cloudy,97,36,37,1008,Hyderabad
+63,2019-03-05,Partly cloudy,96,36,29,1007,Hyderabad
+64,2019-03-06,Sunny,97,36,17,1008,Hyderabad
+65,2019-03-07,Partly cloudy,100,38,19,1009,Hyderabad
+66,2019-03-08,Partly cloudy,97,36,32,1010,Hyderabad
+67,2019-03-09,Partly cloudy,99,37,37,1011,Hyderabad
+68,2019-03-10,Partly cloudy,101,38,40,1011,Hyderabad
+69,2019-03-11,Partly cloudy,95,35,40,1012,Hyderabad
+70,2019-03-12,Partly cloudy,94,34,35,1012,Hyderabad
+71,2019-03-13,Partly cloudy,96,36,28,1012,Hyderabad
+72,2019-03-14,Partly cloudy,98,37,21,1012,Hyderabad
+73,2019-03-15,Partly cloudy,99,37,21,1012,Hyderabad
+74,2019-03-16,Partly cloudy,96,36,22,1012,Hyderabad
+75,2019-03-17,Partly cloudy,96,35,26,1012,Hyderabad
+76,2019-03-18,Partly cloudy,99,37,24,1011,Hyderabad
+77,2019-03-19,Partly cloudy,99,37,35,1009,Hyderabad
+78,2019-03-20,Partly cloudy,94,35,44,1008,Hyderabad
+79,2019-03-21,Partly cloudy,97,36,37,1009,Hyderabad
+80,2019-03-22,Partly cloudy,95,35,39,1011,Hyderabad
+81,2019-03-23,Partly cloudy,95,35,39,1010,Hyderabad
+82,2019-03-24,Partly cloudy,97,36,32,1009,Hyderabad
+83,2019-03-25,Partly cloudy,100,38,33,1009,Hyderabad
+84,2019-03-26,Partly cloudy,98,37,31,1010,Hyderabad
+85,2019-03-27,Partly cloudy,100,38,31,1011,Hyderabad
+86,2019-03-28,Partly cloudy,104,40,23,1011,Hyderabad
+87,2019-03-29,Partly cloudy,104,40,24,1009,Hyderabad
+88,2019-03-30,Partly cloudy,107,42,25,1007,Hyderabad
+89,2019-03-31,Partly cloudy,104,40,22,1007,Hyderabad
+90,2019-04-01,Partly cloudy,108,42,17,1008,Hyderabad
+91,2019-04-02,Partly cloudy,105,41,28,1007,Hyderabad
+92,2019-04-03,Partly cloudy,101,39,38,1008,Hyderabad
+93,2019-04-04,Partly cloudy,97,36,33,1010,Hyderabad
+94,2019-04-05,Patchy rain possible,102,39,26,1010,Hyderabad
+95,2019-04-06,Partly cloudy,104,40,22,1009,Hyderabad
+96,2019-04-07,Partly cloudy,103,39,21,1008,Hyderabad
+97,2019-04-08,Partly cloudy,100,38,31,1007,Hyderabad
+98,2019-04-09,Partly cloudy,100,38,39,1007,Hyderabad
+99,2019-04-10,Partly cloudy,100,38,36,1008,Hyderabad
+100,2019-04-11,Partly cloudy,103,39,32,1008,Hyderabad
+101,2019-04-12,Patchy rain possible,105,41,23,1007,Hyderabad
+102,2019-04-13,Partly cloudy,104,40,26,1007,Hyderabad
+103,2019-04-14,Partly cloudy,105,40,20,1008,Hyderabad
+104,2019-04-15,Partly cloudy,105,41,19,1007,Hyderabad
+105,2019-04-16,Partly cloudy,105,40,18,1007,Hyderabad
+106,2019-04-17,Partly cloudy,100,38,29,1008,Hyderabad
+107,2019-04-18,Partly cloudy,101,39,37,1007,Hyderabad
+108,2019-04-19,Partly cloudy,100,38,43,1007,Hyderabad
+109,2019-04-20,Patchy rain possible,99,37,43,1005,Hyderabad
+110,2019-04-21,Patchy rain possible,99,37,42,1005,Hyderabad
+111,2019-04-22,Partly cloudy,99,37,44,1005,Hyderabad
+112,2019-04-23,Partly cloudy,100,38,30,1007,Hyderabad
+113,2019-04-24,Partly cloudy,104,40,25,1008,Hyderabad
+114,2019-04-25,Partly cloudy,108,42,20,1007,Hyderabad
+115,2019-04-26,Partly cloudy,106,41,20,1005,Hyderabad
+116,2019-04-27,Partly cloudy,106,41,25,1006,Hyderabad
+117,2019-04-28,Partly cloudy,106,41,28,1005,Hyderabad
+118,2019-04-29,Partly cloudy,106,41,27,1005,Hyderabad
+119,2019-04-30,Partly cloudy,103,40,32,1004,Hyderabad
+120,2019-05-01,Patchy rain possible,104,40,34,1002,Hyderabad
+121,2019-05-02,Partly cloudy,106,41,27,1001,Hyderabad
+122,2019-05-03,Partly cloudy,103,39,14,1003,Hyderabad
+123,2019-05-04,Partly cloudy,104,40,15,1006,Hyderabad
+124,2019-05-05,Partly cloudy,104,40,15,1007,Hyderabad
+125,2019-05-06,Partly cloudy,109,43,14,1006,Hyderabad
+126,2019-05-07,Partly cloudy,106,41,21,1004,Hyderabad
+127,2019-05-08,Partly cloudy,107,41,21,1004,Hyderabad
+128,2019-05-09,Partly cloudy,106,41,19,1004,Hyderabad
+129,2019-05-10,Partly cloudy,110,43,16,1004,Hyderabad
+130,2019-05-11,Partly cloudy,104,40,22,1005,Hyderabad
+131,2019-05-12,Partly cloudy,103,39,30,1005,Hyderabad
+132,2019-05-13,Partly cloudy,105,40,32,1005,Hyderabad
+133,2019-05-14,Partly cloudy,105,41,25,1005,Hyderabad
+134,2019-05-15,Partly cloudy,110,43,29,1005,Hyderabad
+135,2019-05-16,Patchy rain possible,109,43,25,1006,Hyderabad
+136,2019-05-17,Partly cloudy,107,42,30,1006,Hyderabad
+137,2019-05-18,Partly cloudy,109,43,24,1005,Hyderabad
+138,2019-05-19,Partly cloudy,111,44,17,1005,Hyderabad
+139,2019-05-20,Partly cloudy,107,42,22,1006,Hyderabad
+140,2019-05-21,Partly cloudy,106,41,25,1005,Hyderabad
+141,2019-05-22,Partly cloudy,106,41,28,1005,Hyderabad
+142,2019-05-23,Partly cloudy,103,40,32,1004,Hyderabad
+143,2019-05-24,Partly cloudy,109,43,29,1004,Hyderabad
+144,2019-05-25,Patchy light rain with thunder,102,39,30,1004,Hyderabad
+145,2019-05-26,Partly cloudy,112,45,18,1002,Hyderabad
+146,2019-05-27,Partly cloudy,112,44,20,1002,Hyderabad
+147,2019-05-28,Partly cloudy,112,45,18,1001,Hyderabad
+148,2019-05-29,Partly cloudy,114,45,25,1001,Hyderabad
+149,2019-05-30,Partly cloudy,111,44,32,1001,Hyderabad
+150,2019-05-31,Heavy rain at times,102,39,44,1002,Hyderabad
+151,2019-06-01,Moderate or heavy rain shower,104,40,37,1003,Hyderabad
+152,2019-06-02,Patchy rain possible,106,41,25,1002,Hyderabad
+153,2019-06-03,Partly cloudy,105,41,32,1002,Hyderabad
+154,2019-06-04,Thundery outbreaks possible,104,40,42,1003,Hyderabad
+155,2019-06-05,Partly cloudy,108,42,30,1001,Hyderabad
+156,2019-06-06,Patchy rain possible,110,43,30,1001,Hyderabad
+157,2019-06-07,Partly cloudy,112,44,25,1001,Hyderabad
+158,2019-06-08,Patchy rain possible,101,38,40,1003,Hyderabad
+159,2019-06-09,Patchy rain possible,101,38,38,1002,Hyderabad
+160,2019-06-10,Light rain shower,102,39,35,1001,Hyderabad
+161,2019-06-11,Partly cloudy,101,39,42,1002,Hyderabad
+162,2019-06-12,Partly cloudy,96,36,46,1003,Hyderabad
+163,2019-06-13,Partly cloudy,98,37,42,1003,Hyderabad
+164,2019-06-14,Cloudy,95,35,44,1003,Hyderabad
+165,2019-06-15,Partly cloudy,98,37,43,1004,Hyderabad
+166,2019-06-16,Partly cloudy,98,37,42,1005,Hyderabad
+167,2019-06-17,Heavy rain at times,92,33,55,1006,Hyderabad
+168,2019-06-18,Partly cloudy,97,36,44,1004,Hyderabad
+169,2019-06-19,Patchy rain possible,97,36,47,1003,Hyderabad
+170,2019-06-20,Moderate or heavy rain shower,94,35,55,1003,Hyderabad
+171,2019-06-21,Moderate or heavy rain shower,89,32,64,1003,Hyderabad
+172,2019-06-22,Moderate or heavy rain shower,82,28,71,1003,Hyderabad
+173,2019-06-23,Light rain shower,88,31,67,1002,Hyderabad
+174,2019-06-24,Moderate or heavy rain shower,90,32,63,1003,Hyderabad
+175,2019-06-25,Torrential rain shower,90,32,63,1004,Hyderabad
+176,2019-06-26,Moderate or heavy rain shower,90,32,66,1004,Hyderabad
+177,2019-06-27,Moderate or heavy rain shower,91,33,66,1003,Hyderabad
+178,2019-06-28,Torrential rain shower,88,31,68,1003,Hyderabad
+179,2019-06-29,Heavy rain,77,25,82,1004,Hyderabad
+180,2019-06-30,Light rain shower,78,25,77,1003,Hyderabad
+181,2019-07-01,Moderate rain at times,80,27,76,1002,Hyderabad
+182,2019-07-02,Light rain shower,80,27,78,1003,Hyderabad
+183,2019-07-03,Patchy rain possible,79,26,77,1003,Hyderabad
+184,2019-07-04,Light rain shower,88,31,67,1002,Hyderabad
+185,2019-07-05,Light rain,87,30,68,1002,Hyderabad
+186,2019-07-06,Light rain shower,85,30,66,1002,Hyderabad
+187,2019-07-07,Light rain shower,84,29,67,1004,Hyderabad
+188,2019-07-08,Light rain shower,89,32,67,1004,Hyderabad
+189,2019-07-09,Light rain shower,87,31,66,1004,Hyderabad
+190,2019-07-10,Patchy rain possible,89,31,64,1004,Hyderabad
+191,2019-07-11,Light rain shower,87,30,67,1006,Hyderabad
+192,2019-07-12,Light rain shower,87,30,66,1007,Hyderabad
+193,2019-07-13,Torrential rain shower,88,31,66,1007,Hyderabad
+194,2019-07-14,Light rain shower,84,29,71,1006,Hyderabad
+195,2019-07-15,Moderate or heavy rain shower,87,31,68,1005,Hyderabad
+196,2019-07-16,Moderate or heavy rain shower,86,30,69,1005,Hyderabad
+197,2019-07-17,Moderate or heavy rain shower,89,31,66,1005,Hyderabad
+198,2019-07-18,Torrential rain shower,88,31,67,1003,Hyderabad
+199,2019-07-19,Light rain shower,82,28,73,1002,Hyderabad
+200,2019-07-20,Moderate or heavy rain shower,87,31,71,1001,Hyderabad
+201,2019-07-21,Patchy rain possible,89,32,67,1002,Hyderabad
+202,2019-07-22,Moderate or heavy rain shower,90,32,69,1002,Hyderabad
+203,2019-07-23,Light rain shower,86,30,73,1002,Hyderabad
+204,2019-07-24,Patchy rain possible,86,30,72,1003,Hyderabad
+205,2019-07-25,Moderate or heavy rain shower,83,28,74,1005,Hyderabad
+206,2019-07-26,Moderate or heavy rain shower,76,25,84,1005,Hyderabad
+207,2019-07-27,Light rain shower,74,24,85,1004,Hyderabad
+208,2019-07-28,Torrential rain shower,75,24,86,1004,Hyderabad
+209,2019-07-29,Heavy rain,75,24,86,1004,Hyderabad
+210,2019-07-30,Light drizzle,77,25,84,1005,Hyderabad
+211,2019-07-31,Moderate or heavy rain shower,83,28,77,1006,Hyderabad
+212,2019-08-01,Moderate or heavy rain shower,82,28,77,1005,Hyderabad
+213,2019-08-02,Heavy rain,73,23,88,1005,Hyderabad
+214,2019-08-03,Heavy rain,73,23,87,1005,Hyderabad
+215,2019-08-04,Light rain shower,77,25,83,1005,Hyderabad
+216,2019-08-05,Light rain shower,80,27,80,1003,Hyderabad
+217,2019-08-06,Moderate or heavy rain shower,78,26,80,1001,Hyderabad
+218,2019-08-07,Moderate or heavy rain shower,77,25,84,1001,Hyderabad
+219,2019-08-08,Light rain shower,82,28,76,999,Hyderabad
+220,2019-08-09,Light rain shower,85,29,72,1001,Hyderabad
+221,2019-08-10,Light rain shower,86,30,72,1004,Hyderabad
+222,2019-08-11,Patchy rain possible,84,29,71,1005,Hyderabad
+223,2019-08-12,Moderate or heavy rain shower,83,29,73,1005,Hyderabad
+224,2019-08-13,Light rain shower,81,27,77,1004,Hyderabad
+225,2019-08-14,Torrential rain shower,83,29,78,1005,Hyderabad
+226,2019-08-15,Patchy rain possible,85,30,75,1006,Hyderabad
+227,2019-08-16,Patchy rain possible,87,30,73,1006,Hyderabad
+228,2019-08-17,Patchy rain possible,86,30,72,1006,Hyderabad
+229,2019-08-18,Light rain shower,84,29,74,1006,Hyderabad
+230,2019-08-19,Torrential rain shower,86,30,74,1007,Hyderabad
+231,2019-08-20,Patchy rain possible,85,30,74,1006,Hyderabad
+232,2019-08-21,Torrential rain shower,82,28,79,1005,Hyderabad
+233,2019-08-22,Light rain shower,83,28,79,1005,Hyderabad
+234,2019-08-23,Light rain shower,81,27,76,1005,Hyderabad
+235,2019-08-24,Light rain shower,82,28,76,1006,Hyderabad
+236,2019-08-25,Patchy rain possible,83,29,77,1005,Hyderabad
+237,2019-08-26,Partly cloudy,85,29,72,1005,Hyderabad
+238,2019-08-27,Partly cloudy,85,29,69,1005,Hyderabad
+239,2019-08-28,Partly cloudy,86,30,68,1005,Hyderabad
+240,2019-08-29,Light rain shower,86,30,72,1005,Hyderabad
+241,2019-08-30,Torrential rain shower,84,29,77,1003,Hyderabad
+242,2019-08-31,Light rain shower,82,28,81,1002,Hyderabad
+243,2019-09-01,Light rain shower,80,27,84,1003,Hyderabad
+244,2019-09-02,Light rain shower,76,25,85,1005,Hyderabad
+245,2019-09-03,Light rain shower,74,24,88,1005,Hyderabad
+246,2019-09-04,Light drizzle,74,23,87,1004,Hyderabad
+247,2019-09-05,Patchy rain possible,82,28,78,1004,Hyderabad
+248,2019-09-06,Light rain shower,81,27,78,1002,Hyderabad
+249,2019-09-07,Patchy light rain,77,25,79,1002,Hyderabad
+250,2019-09-08,Light rain shower,78,26,82,1005,Hyderabad
+251,2019-09-09,Cloudy,85,30,71,1005,Hyderabad
+252,2019-09-10,Patchy rain possible,84,29,73,1005,Hyderabad
+253,2019-09-11,Patchy rain possible,84,29,71,1006,Hyderabad
+254,2019-09-12,Patchy rain possible,83,28,73,1008,Hyderabad
+255,2019-09-13,Light rain shower,84,29,74,1008,Hyderabad
+256,2019-09-14,Patchy rain possible,84,29,74,1008,Hyderabad
+257,2019-09-15,Light rain shower,85,29,75,1007,Hyderabad
+258,2019-09-16,Moderate or heavy rain shower,85,30,75,1006,Hyderabad
+259,2019-09-17,Torrential rain shower,85,29,79,1005,Hyderabad
+260,2019-09-18,Torrential rain shower,84,29,81,1005,Hyderabad
+261,2019-09-19,Moderate or heavy rain shower,83,29,83,1005,Hyderabad
+262,2019-09-20,Patchy rain possible,84,29,78,1006,Hyderabad
+263,2019-09-21,Patchy rain possible,84,29,76,1007,Hyderabad
+264,2019-09-22,Moderate or heavy rain shower,87,31,71,1008,Hyderabad
+265,2019-09-23,Patchy rain possible,87,31,73,1008,Hyderabad
+266,2019-09-24,Torrential rain shower,86,30,76,1006,Hyderabad
+267,2019-09-25,Torrential rain shower,82,28,85,1008,Hyderabad
+268,2019-09-26,Light rain shower,83,29,82,1011,Hyderabad
+269,2019-09-27,Patchy rain possible,84,29,80,1012,Hyderabad
+270,2019-09-28,Patchy rain possible,85,29,73,1012,Hyderabad
+271,2019-09-29,Moderate or heavy rain shower,86,30,74,1012,Hyderabad
+272,2019-09-30,Patchy light drizzle,82,28,77,1012,Hyderabad
+273,2019-10-01,Patchy rain possible,86,30,71,1011,Hyderabad
+274,2019-10-02,Moderate or heavy rain shower,86,30,71,1011,Hyderabad
+275,2019-10-03,Patchy rain possible,86,30,70,1010,Hyderabad
+276,2019-10-04,Moderate or heavy rain shower,85,30,73,1010,Hyderabad
+277,2019-10-05,Moderate or heavy rain shower,87,30,73,1009,Hyderabad
+278,2019-10-06,Light rain shower,85,30,76,1009,Hyderabad
+279,2019-10-07,Moderate or heavy rain shower,85,30,72,1010,Hyderabad
+280,2019-10-08,Torrential rain shower,85,30,74,1009,Hyderabad
+281,2019-10-09,Moderate or heavy rain shower,86,30,76,1009,Hyderabad
+282,2019-10-10,Moderate or heavy rain shower,85,30,75,1009,Hyderabad
+283,2019-10-11,Light rain shower,82,28,80,1009,Hyderabad
+284,2019-10-12,Torrential rain shower,84,29,79,1010,Hyderabad
+285,2019-10-13,Torrential rain shower,84,29,78,1010,Hyderabad
+286,2019-10-14,Light rain shower,84,29,78,1011,Hyderabad
+287,2019-10-15,Torrential rain shower,83,28,80,1012,Hyderabad
+288,2019-10-16,Patchy rain possible,83,28,79,1011,Hyderabad
+289,2019-10-17,Moderate or heavy rain shower,83,29,79,1011,Hyderabad
+290,2019-10-18,Light rain shower,81,27,86,1011,Hyderabad
+291,2019-10-19,Light rain shower,81,27,85,1012,Hyderabad
+292,2019-10-20,Light rain shower,82,28,83,1012,Hyderabad
+293,2019-10-21,Torrential rain shower,81,27,84,1011,Hyderabad
+294,2019-10-22,Moderate or heavy rain shower,80,26,84,1009,Hyderabad
+295,2019-10-23,Torrential rain shower,76,24,89,1006,Hyderabad
+296,2019-10-24,Moderate or heavy rain shower,80,27,81,1006,Hyderabad
+297,2019-10-25,Torrential rain shower,80,27,84,1008,Hyderabad
+298,2019-10-26,Moderate or heavy rain shower,83,28,76,1010,Hyderabad
+299,2019-10-27,Moderate or heavy rain shower,85,29,77,1010,Hyderabad
+300,2019-10-28,Partly cloudy,83,28,78,1012,Hyderabad
+301,2019-10-29,Light rain shower,82,28,82,1012,Hyderabad
+302,2019-10-30,Partly cloudy,82,28,80,1012,Hyderabad
+303,2019-10-31,Patchy rain possible,80,27,79,1011,Hyderabad
+304,2019-11-01,Moderate or heavy rain shower,83,28,77,1011,Hyderabad
+305,2019-11-02,Light rain shower,83,28,76,1012,Hyderabad
+306,2019-11-03,Patchy rain possible,83,28,77,1013,Hyderabad
+307,2019-11-04,Partly cloudy,85,30,72,1013,Hyderabad
+308,2019-11-05,Partly cloudy,85,29,67,1011,Hyderabad
+309,2019-11-06,Light rain shower,83,29,70,1010,Hyderabad
+310,2019-11-07,Light rain shower,86,30,66,1009,Hyderabad
+311,2019-11-08,Partly cloudy,84,29,66,1010,Hyderabad
+312,2019-11-09,Partly cloudy,84,29,70,1010,Hyderabad
+313,2019-11-10,Partly cloudy,84,29,61,1011,Hyderabad
+314,2019-11-11,Patchy rain possible,82,28,71,1011,Hyderabad
+315,2019-11-12,Partly cloudy,83,29,68,1012,Hyderabad
+316,2019-11-13,Partly cloudy,81,27,63,1014,Hyderabad
+317,2019-11-14,Partly cloudy,80,27,71,1014,Hyderabad
+318,2019-11-15,Cloudy,81,27,69,1013,Hyderabad
+319,2019-11-16,Partly cloudy,83,28,71,1013,Hyderabad
+320,2019-11-17,Partly cloudy,83,29,64,1013,Hyderabad
+321,2019-11-18,Partly cloudy,83,29,59,1013,Hyderabad
+322,2019-11-19,Partly cloudy,82,28,62,1012,Hyderabad
+323,2019-11-20,Cloudy,78,26,74,1013,Hyderabad
+324,2019-11-21,Partly cloudy,81,27,71,1013,Hyderabad
+325,2019-11-22,Partly cloudy,82,28,69,1014,Hyderabad
+326,2019-11-23,Partly cloudy,81,27,61,1014,Hyderabad
+327,2019-11-24,Partly cloudy,83,28,60,1014,Hyderabad
+328,2019-11-25,Sunny,81,27,66,1014,Hyderabad
+329,2019-11-26,Patchy rain possible,77,25,78,1013,Hyderabad
+330,2019-11-27,Partly cloudy,81,27,72,1013,Hyderabad
+331,2019-11-28,Partly cloudy,81,27,68,1013,Hyderabad
+332,2019-11-29,Partly cloudy,81,27,70,1013,Hyderabad
+333,2019-11-30,Partly cloudy,82,28,61,1013,Hyderabad
+334,2019-12-01,Partly cloudy,82,28,64,1013,Hyderabad
+335,2019-12-02,Moderate or heavy rain shower,73,23,79,1014,Hyderabad
+336,2019-12-03,Patchy rain possible,78,26,76,1014,Hyderabad
+337,2019-12-04,Cloudy,79,26,71,1015,Hyderabad
+338,2019-12-05,Partly cloudy,78,26,71,1016,Hyderabad
+339,2019-12-06,Partly cloudy,78,25,71,1016,Hyderabad
+340,2019-12-07,Partly cloudy,79,26,65,1015,Hyderabad
+341,2019-12-08,Patchy rain possible,78,26,72,1015,Hyderabad
+342,2019-12-09,Patchy rain possible,77,25,74,1015,Hyderabad
+343,2019-12-10,Partly cloudy,79,26,70,1014,Hyderabad
+344,2019-12-11,Partly cloudy,80,27,66,1012,Hyderabad
+345,2019-12-12,Partly cloudy,79,26,67,1012,Hyderabad
+346,2019-12-13,Partly cloudy,80,27,67,1014,Hyderabad
+347,2019-12-14,Partly cloudy,81,27,67,1015,Hyderabad
+348,2019-12-15,Patchy rain possible,80,27,72,1014,Hyderabad
+349,2019-12-16,Partly cloudy,80,26,67,1014,Hyderabad
+350,2019-12-17,Partly cloudy,81,27,61,1014,Hyderabad
+351,2019-12-18,Partly cloudy,81,27,64,1015,Hyderabad
+352,2019-12-19,Partly cloudy,81,27,64,1014,Hyderabad
+353,2019-12-20,Partly cloudy,82,28,59,1013,Hyderabad
+354,2019-12-21,Partly cloudy,81,27,56,1013,Hyderabad
+355,2019-12-22,Cloudy,77,25,72,1014,Hyderabad
+356,2019-12-23,Partly cloudy,78,26,69,1014,Hyderabad
+357,2019-12-24,Partly cloudy,78,26,69,1014,Hyderabad
+358,2019-12-25,Partly cloudy,79,26,67,1014,Hyderabad
+359,2019-12-26,Partly cloudy,81,27,63,1013,Hyderabad
+360,2019-12-27,Light rain shower,80,27,67,1012,Hyderabad
+361,2019-12-28,Patchy rain possible,78,26,66,1013,Hyderabad
+362,2019-12-29,Patchy rain possible,77,25,58,1014,Hyderabad
+363,2019-12-30,Patchy rain possible,78,26,64,1013,Hyderabad
+364,2019-12-31,Patchy rain possible,75,24,79,1014,Hyderabad
+365,2020-01-01,Moderate rain at times,79,26,77,1015,Hyderabad
+366,2020-01-02,Patchy rain possible,81,27,76,1015,Hyderabad
+367,2020-01-03,Light rain shower,85,29,70,1013,Hyderabad
+368,2020-01-04,Cloudy,82,28,74,1012,Hyderabad
+369,2020-01-05,Cloudy,79,26,67,1014,Hyderabad
+370,2020-01-06,Cloudy,78,26,68,1016,Hyderabad
+371,2020-01-07,Patchy rain possible,79,26,78,1015,Hyderabad
+372,2020-01-08,Patchy rain possible,82,28,74,1013,Hyderabad
+373,2020-01-09,Light rain shower,83,28,74,1013,Hyderabad
+374,2020-01-10,Patchy rain possible,78,26,70,1014,Hyderabad
+375,2020-01-11,Partly cloudy,81,27,58,1015,Hyderabad
+376,2020-01-12,Partly cloudy,88,31,51,1014,Hyderabad
+377,2020-01-13,Partly cloudy,86,30,40,1012,Hyderabad
+378,2020-01-14,Partly cloudy,84,29,50,1012,Hyderabad
+379,2020-01-15,Partly cloudy,80,27,62,1013,Hyderabad
+380,2020-01-16,Partly cloudy,81,27,63,1012,Hyderabad
+381,2020-01-17,Partly cloudy,80,27,65,1013,Hyderabad
+382,2020-01-18,Patchy rain possible,80,26,72,1013,Hyderabad
+383,2020-01-19,Patchy rain possible,82,28,67,1013,Hyderabad
+384,2020-01-20,Patchy rain possible,83,29,62,1014,Hyderabad
+385,2020-01-21,Partly cloudy,84,29,59,1015,Hyderabad
+386,2020-01-22,Partly cloudy,82,28,62,1016,Hyderabad
+387,2020-01-23,Partly cloudy,85,30,50,1015,Hyderabad
+388,2020-01-24,Partly cloudy,86,30,44,1014,Hyderabad
+389,2020-01-25,Partly cloudy,89,31,43,1013,Hyderabad
+390,2020-01-26,Partly cloudy,92,33,41,1012,Hyderabad
+391,2020-01-27,Partly cloudy,90,32,41,1011,Hyderabad
+392,2020-01-28,Partly cloudy,89,32,46,1011,Hyderabad
+393,2020-01-29,Partly cloudy,91,33,43,1012,Hyderabad
+394,2020-01-30,Partly cloudy,88,31,53,1013,Hyderabad
+395,2020-01-31,Partly cloudy,87,31,48,1011,Hyderabad
+396,2020-02-01,Partly cloudy,84,29,56,1012,Hyderabad
+397,2020-02-02,Patchy rain possible,83,29,67,1014,Hyderabad
+398,2020-02-03,Partly cloudy,85,29,59,1014,Hyderabad
+399,2020-02-04,Partly cloudy,87,30,56,1013,Hyderabad
+400,2020-02-05,Partly cloudy,87,31,52,1012,Hyderabad
+401,2020-02-06,Partly cloudy,89,32,44,1011,Hyderabad
+402,2020-02-07,Patchy rain possible,87,31,51,1012,Hyderabad
+403,2020-02-08,Light rain shower,83,29,64,1013,Hyderabad
+404,2020-02-09,Light rain shower,81,27,73,1015,Hyderabad
+405,2020-02-10,Patchy rain possible,83,28,71,1015,Hyderabad
+406,2020-02-11,Patchy rain possible,81,27,71,1015,Hyderabad
+407,2020-02-12,Patchy rain possible,82,28,69,1016,Hyderabad
+408,2020-02-13,Partly cloudy,87,31,42,1015,Hyderabad
+409,2020-02-14,Sunny,91,33,26,1013,Hyderabad
+410,2020-02-15,Partly cloudy,96,36,29,1012,Hyderabad
+411,2020-02-16,Partly cloudy,92,33,33,1013,Hyderabad
+412,2020-02-17,Partly cloudy,90,32,37,1014,Hyderabad
+413,2020-02-18,Sunny,91,33,21,1013,Hyderabad
+414,2020-02-19,Partly cloudy,92,33,36,1013,Hyderabad
+415,2020-02-20,Partly cloudy,88,31,53,1013,Hyderabad
+416,2020-02-21,Partly cloudy,87,30,46,1015,Hyderabad
+417,2020-02-22,Partly cloudy,88,31,46,1016,Hyderabad
+418,2020-02-23,Partly cloudy,89,32,45,1014,Hyderabad
+419,2020-02-24,Partly cloudy,92,33,38,1011,Hyderabad
+420,2020-02-25,Cloudy,90,32,46,1010,Hyderabad
+421,2020-02-26,Partly cloudy,90,32,55,1011,Hyderabad
+422,2020-02-27,Partly cloudy,89,32,38,1012,Hyderabad
+423,2020-02-28,Partly cloudy,86,30,59,1011,Hyderabad
+424,2020-03-01,Patchy rain possible,91,33,53,1011,Hyderabad
+425,2020-03-02,Patchy rain possible,89,31,46,1011,Hyderabad
+426,2020-03-03,Partly cloudy,94,34,38,1010,Hyderabad
+427,2020-03-04,Partly cloudy,94,34,33,1009,Hyderabad
+428,2020-03-05,Partly cloudy,94,34,41,1008,Hyderabad
+429,2020-03-06,Partly cloudy,92,34,47,1009,Hyderabad
+430,2020-03-07,Partly cloudy,93,34,46,1011,Hyderabad
+431,2020-03-08,Patchy light drizzle,88,31,64,1011,Hyderabad
+432,2020-03-09,Patchy rain possible,86,30,59,1010,Hyderabad
+433,2020-03-10,Partly cloudy,94,35,43,1009,Hyderabad
+434,2020-03-11,Patchy rain possible,89,32,49,1010,Hyderabad
+435,2020-03-12,Partly cloudy,92,33,44,1011,Hyderabad
+436,2020-03-13,Cloudy,90,32,48,1011,Hyderabad
+437,2020-03-14,Partly cloudy,94,35,42,1010,Hyderabad
+438,2020-03-15,Partly cloudy,92,34,44,1011,Hyderabad
+439,2020-03-16,Partly cloudy,93,34,46,1012,Hyderabad
+440,2020-03-17,Partly cloudy,94,35,40,1012,Hyderabad
+441,2020-03-18,Partly cloudy,99,37,28,1011,Hyderabad
+442,2020-03-19,Patchy rain possible,95,35,34,1010,Hyderabad
+443,2020-03-20,Partly cloudy,95,35,35,1010,Hyderabad
+444,2020-03-21,Sunny,101,38,36,1009,Hyderabad
+445,2020-03-22,Partly cloudy,98,37,44,1010,Hyderabad
+446,2020-03-23,Partly cloudy,92,34,50,1010,Hyderabad
+447,2020-03-24,Partly cloudy,95,35,41,1008,Hyderabad
+448,2020-03-25,Partly cloudy,96,35,39,1008,Hyderabad
+449,2020-03-26,Partly cloudy,96,36,33,1009,Hyderabad
+450,2020-03-27,Partly cloudy,98,37,28,1010,Hyderabad
+451,2020-03-28,Partly cloudy,99,37,27,1009,Hyderabad
+452,2020-03-29,Partly cloudy,101,38,26,1008,Hyderabad
+453,2020-03-30,Partly cloudy,100,38,24,1009,Hyderabad
+454,2020-03-31,Partly cloudy,101,38,25,1010,Hyderabad
+455,2020-04-01,Partly cloudy,100,38,24,1009,Hyderabad
+456,2020-04-02,Partly cloudy,102,39,25,1007,Hyderabad
+457,2020-04-03,Partly cloudy,99,37,29,1009,Hyderabad
+458,2020-04-04,Partly cloudy,95,35,32,1010,Hyderabad
+459,2020-04-05,Partly cloudy,100,38,29,1010,Hyderabad
+460,2020-04-06,Partly cloudy,96,35,31,1010,Hyderabad
+461,2020-04-07,Patchy rain possible,99,37,34,1008,Hyderabad
+462,2020-04-08,Patchy rain possible,98,37,36,1009,Hyderabad
+463,2020-04-09,Partly cloudy,106,41,33,1009,Hyderabad
+464,2020-04-10,Partly cloudy,98,36,37,1010,Hyderabad
+465,2020-04-11,Partly cloudy,100,38,26,1011,Hyderabad
+466,2020-04-12,Partly cloudy,100,38,23,1010,Hyderabad
+467,2020-04-13,Partly cloudy,102,39,22,1008,Hyderabad
+468,2020-04-14,Partly cloudy,101,39,19,1008,Hyderabad
+469,2020-04-15,Partly cloudy,103,40,20,1009,Hyderabad
+470,2020-04-16,Partly cloudy,103,40,21,1008,Hyderabad
+471,2020-04-17,Partly cloudy,106,41,25,1007,Hyderabad
+472,2020-04-18,Partly cloudy,105,40,26,1008,Hyderabad
+473,2020-04-19,Patchy rain possible,102,39,29,1008,Hyderabad
+474,2020-04-20,Partly cloudy,101,38,38,1008,Hyderabad
+475,2020-04-21,Partly cloudy,101,39,28,1008,Hyderabad
+476,2020-04-22,Partly cloudy,102,39,29,1006,Hyderabad
+477,2020-04-23,Partly cloudy,103,40,38,1006,Hyderabad
+478,2020-04-24,Patchy rain possible,101,39,40,1006,Hyderabad
+479,2020-04-25,Partly cloudy,108,42,34,1005,Hyderabad
+480,2020-04-26,Patchy rain possible,99,37,52,1007,Hyderabad
+481,2020-04-27,Partly cloudy,105,41,47,1008,Hyderabad
+482,2020-04-28,Patchy rain possible,96,36,47,1009,Hyderabad
+483,2020-04-29,Partly cloudy,98,37,41,1008,Hyderabad
+484,2020-04-30,Partly cloudy,103,40,29,1008,Hyderabad
+485,2020-05-01,Patchy rain possible,103,39,26,1007,Hyderabad
+486,2020-05-02,Partly cloudy,104,40,28,1006,Hyderabad
+487,2020-05-03,Partly cloudy,105,41,30,1005,Hyderabad
+488,2020-05-04,Partly cloudy,103,39,32,1006,Hyderabad
+489,2020-05-05,Partly cloudy,103,39,31,1006,Hyderabad
+490,2020-05-06,Partly cloudy,104,40,34,1006,Hyderabad
+491,2020-05-07,Partly cloudy,101,39,36,1007,Hyderabad
+492,2020-05-08,Partly cloudy,103,39,28,1007,Hyderabad
+493,2020-05-09,Partly cloudy,105,41,26,1006,Hyderabad
+494,2020-05-10,Moderate rain at times,101,38,30,1007,Hyderabad
+495,2020-05-11,Patchy rain possible,100,38,34,1008,Hyderabad
+496,2020-05-12,Partly cloudy,104,40,31,1007,Hyderabad
+497,2020-05-13,Partly cloudy,101,39,29,1006,Hyderabad
+498,2020-05-14,Partly cloudy,102,39,31,1005,Hyderabad
+499,2020-05-15,Patchy rain possible,106,41,30,1004,Hyderabad
+500,2020-05-16,Partly cloudy,110,43,19,1002,Hyderabad
+501,2020-05-17,Partly cloudy,108,42,25,1002,Hyderabad
+502,2020-05-18,Partly cloudy,103,39,21,1000,Hyderabad
+503,2020-05-19,Partly cloudy,105,40,17,999,Hyderabad
+504,2020-05-20,Sunny,106,41,18,999,Hyderabad
+505,2020-05-21,Sunny,107,42,14,1001,Hyderabad
+506,2020-05-22,Sunny,109,43,12,1003,Hyderabad
+507,2020-05-23,Sunny,109,43,15,1003,Hyderabad
+508,2020-05-24,Partly cloudy,109,43,27,1004,Hyderabad
+509,2020-05-25,Partly cloudy,107,42,30,1005,Hyderabad
+510,2020-05-26,Partly cloudy,105,40,37,1005,Hyderabad
+511,2020-05-27,Partly cloudy,113,45,28,1004,Hyderabad
+512,2020-05-28,Partly cloudy,110,44,22,1003,Hyderabad
+513,2020-05-29,Partly cloudy,110,44,28,1003,Hyderabad
+514,2020-05-30,Partly cloudy,107,42,36,1004,Hyderabad
+515,2020-05-31,Patchy rain possible,89,32,50,1007,Hyderabad
+516,2020-06-01,Partly cloudy,99,37,47,1007,Hyderabad
+517,2020-06-02,Light rain shower,92,33,55,1006,Hyderabad
+518,2020-06-03,Patchy rain possible,92,34,55,1005,Hyderabad
+519,2020-06-04,Partly cloudy,94,34,50,1005,Hyderabad
+520,2020-06-05,Cloudy,97,36,47,1005,Hyderabad
+521,2020-06-06,Partly cloudy,94,34,45,1004,Hyderabad
+522,2020-06-07,Partly cloudy,94,34,47,1004,Hyderabad
+523,2020-06-08,Cloudy,94,35,45,1004,Hyderabad
+524,2020-06-09,Patchy rain possible,95,35,47,1003,Hyderabad
+525,2020-06-10,Moderate rain at times,94,35,59,1003,Hyderabad
+526,2020-06-11,Moderate or heavy rain shower,84,29,74,1001,Hyderabad
+527,2020-06-12,Light rain shower,78,25,79,1001,Hyderabad
+528,2020-06-13,Light rain shower,86,30,71,1001,Hyderabad
+529,2020-06-14,Light rain shower,90,32,66,1003,Hyderabad
+530,2020-06-15,Light rain shower,88,31,69,1002,Hyderabad
+531,2020-06-16,Light rain shower,89,31,68,1002,Hyderabad
+532,2020-06-17,Light rain shower,82,28,73,1003,Hyderabad
+533,2020-06-18,Light rain shower,85,29,70,1004,Hyderabad
+534,2020-06-19,Patchy rain possible,83,28,72,1005,Hyderabad
+535,2020-06-20,Light rain shower,90,32,63,1004,Hyderabad
+536,2020-06-21,Light rain shower,80,27,71,1003,Hyderabad
+537,2020-06-22,Light rain shower,86,30,67,1002,Hyderabad
+538,2020-06-23,Patchy rain possible,88,31,63,1004,Hyderabad
+539,2020-06-24,Partly cloudy,92,34,55,1004,Hyderabad
+540,2020-06-25,Patchy rain possible,94,34,52,1003,Hyderabad
+541,2020-06-26,Partly cloudy,95,35,55,1003,Hyderabad
+542,2020-06-27,Light rain shower,92,33,61,1003,Hyderabad
+543,2020-06-28,Patchy rain possible,89,32,63,1004,Hyderabad
+544,2020-06-29,Patchy rain possible,91,33,63,1003,Hyderabad
+545,2020-06-30,Light rain shower,88,31,69,1003,Hyderabad
